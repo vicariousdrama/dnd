@@ -53,3 +53,8 @@ We look around and dont see the horse or mule. We see the road heading to the ci
 
 When we wake in the morning we eat rations and discuss plans.  We didn't see anything else from the site up ahead but will check it out on the way to the city.  We approach teh fire site, and Jaxxen recalls that the mule had a notch in its horseshoe and there's a footprint in the ground here resembling the same.  Suggests we may be able to catch up to them if we move at a faster pace. Through the day we move as quickly as we can, but are hampered in part by Jinxia's slower speed. We eventually see a man walking with a horse and mule and close in.  Matheris hails the guy. Says it seems he's saved his equine and hes grateful they've been recovered.  The man states back "Are you talking about my horse and mule I purchased 6 hours ago?"  He claims to have purchased them from an orc and paid 175 gold for them. Matheris mentions that will read on his epitaph.  The man now tries to get moving and pulls the mule along. He gets on the horse. The mule bucks away to the side. Jaxxen fires a shot at long range at disadvantage, but manages to hit him square in his head! The man falls off the horse. The group catches up and Jaxxen holds the bridle of the horse and attempts to calm him. Then says "You look like a Dusty". Matheris is glad to have his mule back. The group continues to the great city.
 
+Jaxxens map
+
+![Tower of Umar Ruins_55x27](https://github.com/vicariousdrama/dnd/assets/88121568/44fc6df1-c1ba-47a0-bac9-e59ec35f5a3d)
+
+
