@@ -1,10 +1,17 @@
 # Jaxxen the Tiefling Warlock
 
-[Current Character Sheet](5e_Jaxxen_Tiefling_Warlock_2.pdf) 
-
-[Base Character Sheet](5e_Jaxxen_Tiefling_Warlock.pdf)
-
-# Notes
+<table width="100%" cellpadding="0" cellspacing="5"><tr>
+<td>
+  <p>Current Character Sheet: <a href="5e_Jaxxen_Tiefling_Warlock_2.pdf">Jaxxen, Warlock 2</a></p>
+</td>
+<td>
+  <h2>Sessions</h2>
+  <ul>
+    <li><a href="#session-1---seeking-the-tower-of-umar">1. Seeking the Tower of Umar</a></li>
+    <li><a href="#session-1---seeking-the-tower-of-umar">2. Joining other Knowledge Seekers</a></li>
+  </ul>
+</td>
+</tr></table>
 
 # Session 1 - Seeking the Tower of Umar
 
