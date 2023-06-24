@@ -16,10 +16,10 @@
 
 # Session 1 - Seeking the Tower of Umar
 
-- 20230619 - 20230620
-- Matheris / Halfelf Bard
-- Jinxia / Halfling Rogue
-- Jaxxen Nage / Tiefling Warlock
+20230619 - 20230620
+- Matheris / Halfelf Bard 1
+- Jinxia / Halfling Rogue 1
+- Jaxxen Nage / Tiefling Warlock 1
 
 ## Day 1
 
@@ -73,12 +73,12 @@ Jaxxen's map as redrawn with [Dungeon Scrawl](https://app.dungeonscrawl.com/)
 
 # Session 2 - Joining Other Knowledge Seekers
 
-- 202306239 - 20230624
-- Matheris / Halfelf Bard
-- Jinxia / Halfling Rogue
-- Jaxxen Nage / Tiefling Warlock
-- Ume Livinwood / Druid
-- Ulysses / Halfling Monk
+202306239 - 20230624
+- Matheris / Halfelf Bard 1
+- Jinxia / Halfling Rogue 1
+- Jaxxen Nage / Tiefling Warlock 1
+- Ume Livinwood / Druid 1
+- Ulysses / Halfling Monk 1
 
 ## Day 6
 
