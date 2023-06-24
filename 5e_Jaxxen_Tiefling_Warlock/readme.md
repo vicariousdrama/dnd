@@ -135,7 +135,7 @@ Ume and Jaxxen are still rushing to the site. Ume with quarterstaff readied, and
 
 _Subgroup: Matheris, Ulysses and Jinxia_
 
-Jinxia disengages from the spiders and attempts to get to the torch. Spiders are chasing her. One lunges towards her and misses. The other lands on her and bites her but doesnt poison. She attempts to stab with daggers, misses one and hits with the other. Rolls to grab the torch. Ulysses dealing some damage to the spider and attacks with his quarterstaff, nailing it perfectly. A critical hit to the spider's skull causes it to crack and scream out, curling upside down with feet twitching. He gets to Matheris bundled up.  Spiders attack Jinxia, but misses.
+Jinxia disengages from the spiders and attempts to get to the torch.  There is a shiny large longsword nearby that catches Jinxia's eye. Spiders are chasing her. One lunges towards her and misses. The other lands on her and bites her but doesnt poison. She attempts to stab with daggers, misses one and hits with the other. Rolls to grab the torch. Ulysses dealing some damage to the spider and attacks with his quarterstaff, nailing it perfectly. A critical hit to the spider's skull causes it to crack and scream out, curling upside down with feet twitching. He gets to Matheris bundled up.  Spiders attack Jinxia, but misses.
 
 <td width="200">&nbsp;</td></tr>
 <tr><td width="200">&nbsp;</td><td colspan="3">
@@ -163,4 +163,18 @@ Jaxxen steadies promptly when seeing a fire and fires his crossbow. The bolt hit
 
 _Party members regrouped_
 
-The group
+Jinxia attempts to cut away webbing on Matheris. Ulysses shouts "Is anybody there?! Can you hear me?!" and hears a faint moan. He then looks and finds around a tree someone with chainmail armor laying against the tree and has some webbing on him with a wooden shield to the side.  He's hunched over in bad shape and barely alive. Think he was stung. He looks in trees. The moon flickers just right and he sees the two other spiders, about 40 feet away in the trees. Sees 3 more spiders, 5 total and lots of webs.  He shouts "There's 5 more spiders up in the trees!"
+
+Jinxia wants someone to help Matheris. Jaxxen goes in, grabs Matheris and says "IF we're getting out of here, lets go" and begins moving back the way he came. The man in the chain mail makes out some words "Help... help.."  Ume rushes to him, picks him up and retreats. Ulysses and Jinxia follows promptly behind. Jaxxen is leading, with Ume in the back. We hear some noises behind us. 
+
+Ume makes a bonfire cantrip **behind** the group in the forest. Jaxxen continues heading toward camp but is encumbered and moving slower. We get to camp, and the fire behind us went out.  The man and Matheris are propped up at the camp. Ume has an herbalism kit but doesnt have necessary components.  Ulysses takes a water pouch, pouring some in Matheris mouth. Jaxxen asks if any flowers or anything in the area could potentially help. Ume says theres a bark of a kind of tree in this area that can help. He describes the kind of tree to look for.  Ume, Ulysses and Jaxxen go to look for the tree. We relight Matheris lantern to see. Dont find anything yet. 
+
+Jinxia remains with Matheris and the man. She searches the mans possessions looking for any coin. Finds 5gp, 2 empty scabbards, a pack on his back has rope and a torch. She also finds a small pick, and a little glass vial that has no labeling and is a shade of orange.
+
+Ulysses and Jaxxen continue looking for the tree bark and Ulysses thinks he's found it. Ume goes over and collects some bark on a dagger that Jaxxen provides. He can use it as an antidoe. We head back to the camp to try to heal Matheris and the man. Pours some inside Matheris mouth and the other guy as well. There's no effect yet on either.
+
+The party attempts a long rest and Jaxxen stays awake. Jinxia hears something approach and thinks its spiders. Up in the canopy, on the ground, there are 50 to 60 spiders approaching. Jaxxen wnats to get on the horse and head out. He takes the man and puts him on the horse. Ume gets Matheris on the mule. We head out as fast as we can. Get to the road at an angle. Behind us we see dozens of spiders at the edge of the forest bobbing up and down looking to us. We make note of the spider area on a rough drawn map, noting Arachnid Forest.  
+
+We continue onwards and after some time, Matheris and the old man come to.  Ulysses asks him who he is. He replies "Herist".  Matheris is conscious but weak. Not too cognizant yet.  Evening time comes and we look for a place to rest. Find a clearing on the hill on opposite side of the road.  The order of watch is Jaxxen, Ume, and Jinxia. Jinxia asks if we know what the vial of liquid is or the stainless steal cylinder from the ruins.  Jaxxen says he's never seen a potion like that cylinder.  We setup camp. Moon getting full. People are healing. We get through the night.
+
+## Day 7
