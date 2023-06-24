@@ -8,10 +8,11 @@
   <h2>Sessions</h2>
   <ul>
     <li><a href="#session-1---seeking-the-tower-of-umar">1. Seeking the Tower of Umar</a></li>
-    <li><a href="#session-1---seeking-the-tower-of-umar">2. Joining other Knowledge Seekers</a></li>
+    <li><a href="##session-2---joining-other-knowledge-seekers">2. Joining other Knowledge Seekers and reaching the Inn</a></li>
   </ul>
 </td>
-</tr></table>
+</tr>
+</table>
 
 # Session 1 - Seeking the Tower of Umar
 
@@ -68,6 +69,7 @@ When we wake in the morning we eat rations and discuss plans.  We didn't see any
 Jaxxen's map as redrawn with [Dungeon Scrawl](https://app.dungeonscrawl.com/)
 
 ![Tower of Umar Ruins_55x27](https://github.com/vicariousdrama/dnd/assets/88121568/44fc6df1-c1ba-47a0-bac9-e59ec35f5a3d)
+
 
 # Session 2 - Joining Other Knowledge Seekers
 
