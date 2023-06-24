@@ -88,6 +88,79 @@ We introduce ourselves and have discussion as we continue on the road together. 
 
 Eventually we get to evening and decide to find a place to make camp. On a hill on the right side of the road a clearing is identified that may be good. We setup and the monk stretches. Matheris plays a flute. Jaxxen looks to the clear skies.  On either side of the road, large trees are very wide. Jaxxen and Ulysses gather some dead wood and talk for a bit of history. Ume helps ensure the wood they collect is dead, and not live. Jinxia opts to blend into a nearby small boulder to sleep. The group settles in for the night with fire crackling and hear sounds in the woods.  Matheris takes the first watch, then Jaxxen, and Ume. Ulysses is sleeping already and will go last. Matheris watch is without incident, as is Jaxxen's. On Umes watch, its about 2-3 am. Jaxxen goes into deep sleep and dreams of a bright green light anbd black serpent. Its shocking, rocking him to his core in and after some time, Jaxxen is awoken sitting up in a jolt, sweating intensely and grips his forearm. Jaxxen looks at his wrist, and for just a second thought he saw the serpent ove.  Jaxxen describes some of his background to Ume and goes back to sleep. Later, at 3 am, something wakes the whole group.. the sound of a man screaming, the worst kind of pain, blood curdling screem, deep in the woods. We all wake from it. Ulysses utters a phrase in halfling "a shadow is a trusted friend".  Matheris, Jinxia and Ulyssees will go to check out the scream.  Jaxxen and Ume stay with Dusty and Serafina at the camp. Before setting out, Jaxxen returns the boots of elvenkind to Matheris.
 
+<table width="800">
+<tr><td colspan="3">
+  
 _Subgroup: Matheris, Ulysses and Jinxia_
 
-The woods get thicker. Can hear the dying sound of a man again. Matheris notices nothing special. They close half the distance. Slowly as only Matheris has darkvision. Matheris notices
+Matheris, Ulysses and Jinxia head into the woods with a lantern for light. The woods get thicker. Can hear the dying sound of a man again. Matheris notices nothing special. They close half the distance. They try to actively hide and put the lantern out. Crickets starting up again with light out. Ulysses and Jinxia dont have good vision and Ulysses is holding onto Matheris' cloak They hear something on the ground, kind of heavy pounding, something of weight like bags of sand. Matheris sheaths his sword and readies his sling. Ulysses with quarterstaff in hand, they see a light on the ground up ahead. Jinxia gets some white sticky substance on her hand. They notice its on all the trees, sticky and whispy. Matheris thinks it could be some kind of spider. Ulysses suggests they ask the druid back at camp. The sound may have been someone falling prey to it.  The group hears a moan in the direction of the light and see humanoid sized humps on the ground with white sticky covering on all the trees. The light source is a torch on the ground. That area of the humps is kind of a clearing. The group proceeds to try to get closer for visibility. They hear stuff moving around in 2 different directions. Humanoids are encased in the sticky substance. Camp fire smoked out, and a tent thrown into one of the bushes. Matheris looks into the trees but doesn't see anything.  Ulysses listening and hears something from above. Can't pinpoint it and Jinxia also doesnt see. The party communicates intentions to return. And then an arachnid comes down making chittery ihsect noise, and attacks Matheris and Ulysses, landing on both of them. Multiple hairy legs trying to grab and bite. Missis with the bites but has held down. Senses that there is more than one.
+
+<td width="200">&nbsp;</td></tr>
+<tr><td width="200">&nbsp;</td><td colspan="3">
+  
+_Subgroup: Jaxxen, Ume, Serafina + Dusty_
+
+The group back at camp have been awake, perceptive of the forest and road listening and looking for potential threats. It's probably been about 45 minutes to an hour.  Expecting the others to be returning soon to report their findings and so they wait.
+
+</td></tr>
+<tr><td colspan="3">
+  
+_Subgroup: Matheris, Ulysses and Jinxia_
+
+A battle commences. Ulysses asks Matheris to light the torn/lantern but is prone from a spider on him. Ulysss and Matheris try to attack but miss. The spider attacking Matheris hits him in the back, leaving him poisoned and unconscious. Ulysses and Jinxia hear another on the ground. Jinxia misses an attempt to skewer with rapier, but blows her whistle loudly.  
+
+<td width="200">&nbsp;</td></tr>
+<tr><td width="200">&nbsp;</td><td colspan="3">
+
+_Subgroup: Jaxxen, Ume_
+
+Jaxxen and Ume hear the whistle and decide to rush in to check on the group as they must be in trouble. They leave the mule and horse at camp.
+
+</td></tr>
+<tr><td colspan="3">
+
+_Subgroup: Matheris, Ulysses and Jinxia_
+
+Ulysses tries pushing off the spider and succeeds. Hits it with his quarterstaff and then head butts it. A spider bites him but he is not stung. The spider on Matheris begins attempting to wrap him up in a spider cocoon. Jinxia is thrown to the side but has opportunity attack, hitting him. The other two spiders come towards Jinxia, but miss their attacks.
+
+<td width="200">&nbsp;</td></tr>
+<tr><td width="200">&nbsp;</td><td colspan="3">
+
+_Subgroup: Jaxxen, Ume_
+
+Ume and Jaxxen are still rushing to the site. Ume with quarterstaff readied, and Jaxxen with a light crossbow.
+
+</td></tr>
+<tr><td colspan="3">
+
+_Subgroup: Matheris, Ulysses and Jinxia_
+
+Jinxia disengages from the spiders and attempts to get to the torch. Spiders are chasing her. One lunges towards her and misses. The other lands on her and bites her but doesnt poison. She attempts to stab with daggers, misses one and hits with the other. Rolls to grab the torch. Ulysses dealing some damage to the spider and attacks with his quarterstaff, nailing it perfectly. A critical hit to the spider's skull causes it to crack and scream out, curling upside down with feet twitching. He gets to Matheris bundled up.  Spiders attack Jinxia, but misses.
+
+<td width="200">&nbsp;</td></tr>
+<tr><td width="200">&nbsp;</td><td colspan="3">
+
+_Subgroup: Jaxxen, Ume_
+
+Jaxxen and Ume continue running. Ume yells out "Whats going on?!"
+
+</td></tr>
+<tr><td colspan="3">
+
+_Subgroup: Matheris, Ulysses and Jinxia_
+
+Jinxia screams out "I FUCKING ... HATE ... SPIDERS!" and tries to stab at them. Attacks a bleeding spider with her rapier, doing serious damage, killing it.  The other spider attacks and hits her. Ulysses looks at Matheris who has wrapping around him and completely comatose. Wants to remove the webbing but has no sharp implements to cut it away. Looks for any other spiders. Off in the distance upwards in trees are two more spiders. Readies an action guarding Matheris.
+
+<td width="200">&nbsp;</td></tr>
+<tr><td width="200">&nbsp;</td><td colspan="3">
+
+_Subgroup: Jaxxen, Ume, Serafina + Dusty_
+
+Jaxxen steadies promptly when seeing a fire and fires his crossbow. The bolt hits home on the spider dealing damage. Now Jaxxen proceeding at normal walking speed looking for additional threads. Ume pulls a dagger, rushes closer and throws it when in range. It hits and the spider is killed.
+
+</td></tr>
+</table>
+
+_Party members regrouped_
+
+The group
