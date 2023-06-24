@@ -8,7 +8,7 @@
   <h2>Sessions</h2>
   <ul>
     <li><a href="#session-1---seeking-the-tower-of-umar">1. Seeking the Tower of Umar</a></li>
-    <li><a href="##session-2---joining-other-knowledge-seekers">2. Joining other Knowledge Seekers and reaching the Inn</a></li>
+    <li><a href="#session-2---joining-other-knowledge-seekers">2. Joining other Knowledge Seekers and reaching the Inn</a></li>
   </ul>
 </td>
 </tr>
