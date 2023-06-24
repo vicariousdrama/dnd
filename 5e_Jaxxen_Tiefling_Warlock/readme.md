@@ -8,6 +8,11 @@
 
 # Session 1 - Seeking the Tower of Umar
 
+- 20230619 - 20230620
+- Matheris / Halfelf Bard
+- Jinxia / Halfling Rogue
+- Jaxxen Nage / Tiefling Warlock
+
 ## Day 1
 
 Jaxxen the warlock and Matheris the bard gather some additional supplies before setting out from Frizgate towards the great city of Nostr. En route they recall legends of a stone tower that used to be present on a side route. While slightly out of the way, Jaxxen and Matheris agree to see if they can locate it and check it out.  Its supposed to be into the woods 150-200 feet from the road, where there are three noticeable weathered stones on the side, with one darker then the others.  The name is the Tower of Uram.  It could be unsafe, but there could be riches as there was a well off person of nobility there. Matheris has with him Jinxia, a small halfling that hides in the pack of a mule named Serafina.  Before leaving, Jinxia successfully steals some rations, and Jaxxen decides to buy some outright.  At the end of the day we rest, each of us taking a watch.  On Jaxxens watch, he holds his wrist periodically and looks to the sky considering the night serpent in his vision.
@@ -57,4 +62,25 @@ Jaxxen's map as redrawn with [Dungeon Scrawl](https://app.dungeonscrawl.com/)
 
 ![Tower of Umar Ruins_55x27](https://github.com/vicariousdrama/dnd/assets/88121568/44fc6df1-c1ba-47a0-bac9-e59ec35f5a3d)
 
+# Session 2 - Joining Other Knowledge Seekers
 
+- 202306239 - 20230624
+- Matheris / Halfelf Bard
+- Jinxia / Halfling Rogue
+- Jaxxen Nage / Tiefling Warlock
+- Ume Livinwood / Druid
+- Ulysses / Halfling Monk
+
+## Day 6
+
+Matheris, Jinxia, and Jaxxen are continuing on the road headed to the largest city in the realm known as Nostr. 
+
+Ume and Ulysses are on this lesser traveled road with a large forest on both sides. They had previously met and had setup camp nd are breaking down.  On approach, Jaxxen and his group assess that these two individuals are not a threat. 
+
+We introduce ourselves and have discussion as we continue on the road together. We ask if Ume and Ulysses have seen any orcs.  They haven't.  Ulysses doesn't remember his past and is devoted to martial arts and defending himself. Looks to try to help the downtrodden and those whom are bullied and attacked as he was. Ulysses was taken in by an order of monks who let him choose his own name. We're about 3 days from the city.
+
+Eventually we get to evening and decide to find a place to make camp. On a hill on the right side of the road a clearing is identified that may be good. We setup and the monk stretches. Matheris plays a flute. Jaxxen looks to the clear skies.  On either side of the road, large trees are very wide. Jaxxen and Ulysses gather some dead wood and talk for a bit of history. Ume helps ensure the wood they collect is dead, and not live. Jinxia opts to blend into a nearby small boulder to sleep. The group settles in for the night with fire crackling and hear sounds in the woods.  Matheris takes the first watch, then Jaxxen, and Ume. Ulysses is sleeping already and will go last. Matheris watch is without incident, as is Jaxxen's. On Umes watch, its about 2-3 am. Jaxxen goes into deep sleep and dreams of a bright green light anbd black serpent. Its shocking, rocking him to his core in and after some time, Jaxxen is awoken sitting up in a jolt, sweating intensely and grips his forearm. Jaxxen looks at his wrist, and for just a second thought he saw the serpent ove.  Jaxxen describes some of his background to Ume and goes back to sleep. Later, at 3 am, something wakes the whole group.. the sound of a man screaming, the worst kind of pain, blood curdling screem, deep in the woods. We all wake from it. Ulysses utters a phrase in halfling "a shadow is a trusted friend".  Matheris, Jinxia and Ulyssees will go to check out the scream.  Jaxxen and Ume stay with Dusty and Serafina at the camp. Before setting out, Jaxxen returns the boots of elvenkind to Matheris.
+
+_Subgroup: Matheris, Ulysses and Jinxia_
+
+The woods get thicker. Can hear the dying sound of a man again. Matheris notices nothing special. They close half the distance. Slowly as only Matheris has darkvision. Matheris notices
