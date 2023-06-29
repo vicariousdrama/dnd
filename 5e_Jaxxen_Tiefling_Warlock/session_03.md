@@ -13,6 +13,9 @@ He sees Matheris wonder down the stairs, his hair all a mess. Jinxia with him, r
 
 Jaxxen describes the incident last night, and shows the paper that fell out of a scroll to Jinxia and Matheris. Jinxia thinks the G means guild. But doesnt recognize the names of them.  Knows it was written by and for a thief to read. Look at the scroll. It's magical, has some runes on it. I know its magic.  Matheris could examine the scroll to identify it but doesnt have the material components.
 
+![image](https://github.com/vicariousdrama/dnd/assets/88121568/71595955-fbe3-45aa-81e0-4f4a3481a7ee)
+
+
 Jaxxen explains what happened with the dwarf and selling a copy of the map made of the ruins of Umar Tower.
 
 Ume comes down and says hes gotta go. Has to check on something in the woods and mentions that Ulysses had something he had to check out and would meet at Nostr.  
