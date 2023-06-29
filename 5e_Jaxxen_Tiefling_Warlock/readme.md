@@ -9,6 +9,7 @@
   <ul>
     <li><a href="#session-1---seeking-the-tower-of-umar">1. Seeking the Tower of Umar</a></li>
     <li><a href="#session-2---joining-other-knowledge-seekers">2. Joining other Knowledge Seekers and reaching the Inn</a></li>
+    <li><a href="#session-3---entering-nostr">3. Entering Nostr</a></li>
   </ul>
 </td>
 </tr>
@@ -73,7 +74,7 @@ Jaxxen's map as redrawn with [Dungeon Scrawl](https://app.dungeonscrawl.com/)
 
 # Session 2 - Joining Other Knowledge Seekers
 
-202306239 - 20230624
+20230623 - 20230624
 - Matheris / Halfelf Bard 1
 - Jinxia / Halfling Rogue 1
 - Jaxxen Nage / Tiefling Warlock 1
@@ -230,3 +231,16 @@ Jaxxen looks out towards the stables to see if he can verify the existance of wa
 
 __Jaxxen, Jinxia, and Matheris level up__
 
+
+# Session 3 - Entering Nostr
+
+20230626 - 20230627
+- Matheris / Halfelf Bard 2
+- Jinxia / Halfling Rogue 2
+- Jaxxen Nage / Tiefling Warlock 2
+
+## Day 8
+
+Jaxxen wakes in the morning, leaves some things in his room and heads down for food.  He sees the clientele has switched out, but still quite bustling with activity.  There are several tables open and after Jaxxen chooses one to sit at, he orders some eggs and grits.  Asks about Ostrich eggs, but they dont have any of those. They do have large eggs though.  The waitress comes over to take a drink order and Jaxxen has his waterskin refilled. He tips the waitress 3 silver and still somewhat alarmed from last night, asks if anyone here seems out of the ordinary.  The waitress indicates that all seems normal, nothing out of the ordinary.
+
+He sees Matheris wonder down the stairs, his hair all a mess. Jinxia with him, ready to go.  
