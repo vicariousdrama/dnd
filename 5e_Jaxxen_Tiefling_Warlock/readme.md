@@ -2,7 +2,7 @@
 
 <table width="100%" cellpadding="0" cellspacing="5"><tr>
 <td>
-  <p>Current Character Sheet: <a href="5e_Jaxxen_Tiefling_Warlock_4.pdf">Jaxxen, Warlock 2</a></p>
+  <p>Current Character Sheet: <a href="5e_Jaxxen_Tiefling_Warlock_4.pdf">Jaxxen, Warlock level 2</a></p>
 </td>
 <td>
   <h2>Sessions</h2>
