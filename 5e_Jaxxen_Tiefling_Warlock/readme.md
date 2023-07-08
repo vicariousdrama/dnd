@@ -2,7 +2,7 @@
 
 <table width="100%" cellpadding="0" cellspacing="5"><tr>
 <td>
-  <p>Current Character Sheet: <a href="5e_Jaxxen_Tiefling_Warlock_5.pdf">Jaxxen, Warlock level 2</a></p>
+  <p>Current Character Sheet: <a href="5e_Jaxxen_Tiefling_Warlock_6.pdf">Jaxxen, Warlock level 2</a></p>
 </td>
 <td>
   <h2>Sessions</h2>
@@ -12,6 +12,7 @@
     <li><a href="session_03.md">3. Entering Nostr</a></li>
     <li><a href="session_04.md">4. The Sewers, Drunken Goblin Tavern</a></li>
     <li><a href="session_05.md">5. The Night Owl</a></li>
+    <li><a href="session_06.md">6. The Old Building, and the Sewers</li>
   </ul>
 </td>
 </tr>
