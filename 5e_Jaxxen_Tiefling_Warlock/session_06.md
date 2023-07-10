@@ -1,4 +1,4 @@
-# Session 6 - The Old Building, and the Sewers
+# Session 6 - The Old Building, the Sewers, and a Riddle
 
 20230707 - 20230708
 - Matheris / Halfelf Bard 2
@@ -126,6 +126,8 @@ Jaxxen takes rope out of pack and readies to throw it.  Edwin tries again and pu
 Jaxxen is concerned about the light here. Its lit, who lit it? Sees its 3 inches wide and is halfway burned down. Something magical and permanent, encased in glass affixed to the wall with metal.  Very quietly we try to open the door. Edwin tries the handle. Its locked. Jinxia looks for traps. Doesn't see any. Attempts to pick the lock and triggers a trap taking some damage.  Edwin helps Jaxxen with Guidance. Jaxxen attempts to pick the lock but fails but there's no more spikes.  Jinxia picks the lock!
 
 Jaxxen calls for room to open the door and pulls on it. Sees a lot fo oil applied to hinges. The inside is dark. We see in the hallway. With teh candle encased in glass its like a small sconce firmly attached to wall. Hereist uses small candle and Jaxxen will cast Thaumaturgy periodically to brighten the area. Three people using candle and it burns twice as quickly with the Thaumaturgy effect.  We go in. Its ground stone an sand on the ground. THe walls are cut stone. A 20 foot hallway. Middle of the hallway has a door and stairs going up. Matheris casts Healing Word on Jinxia.
+
+## A Riddle
 
 Edwin is at the door checking it for traps. Doesnt think it has any. Jinxia sees writing on the door. Matheris sees it is written in undercommon.  He translates what he reads
 
