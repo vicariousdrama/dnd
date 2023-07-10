@@ -9,8 +9,6 @@
 - Ulysses Halfling Monk 1
 - NPC Hereist, Human Fighter 1
 
-_unformatted rough notes follows_
-
 ## Day 8 (afternoon/evening)
 
 Matheris, before turning on Owl street for inn and stables, there was a vendor near there that had some unusual items, a bowl of bird heads, bowl of feathers, ground up silver, silver shavings. Was able to determine couple items, sold some things...
