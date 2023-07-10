@@ -136,7 +136,11 @@ Guy at front desk. Matheris talks to him about the rooms and that Diego sent us.
 
 Jaxxen will attempt to attune to the ring, with on left hand. Concentrating on it between fingers. Thinking about the vision.  The ring fits on my wedding ring finger. Dont feel like its attuned just yet. And then turning on my finger. About 45 minutes of time there seems a little tingle, but dont feel completely there. The tingling seems that it comes from the symbol. With right hand feeling around wrist with the symbol.  Jaxxen leaves the ring on.
 
-Jinxia taking first watch, Hereist working on sharpening sword.  Next day comes. Walls are thick, so was a quiet night. No events.  We all regroup, check out of the Oreo and head to the Night Owl to see if they have any breakfast. We have chicken wings for breakfast. Matheris gives Hereist a pouch of 200gp and he pays for breakfast.
+Jinxia taking first watch, Hereist working on sharpening sword.
+
+## Day 11
+
+Next day comes. Walls are thick, so was a quiet night. No events.  We all regroup, check out of the Oreo and head to the Night Owl to see if they have any breakfast. We have chicken wings for breakfast. Matheris gives Hereist a pouch of 200gp and he pays for breakfast.
 
 Matheris and Jinxia will go to Duck and Cover stables. Jaxxen and Hereist to the general store south of the candle shop.
 
