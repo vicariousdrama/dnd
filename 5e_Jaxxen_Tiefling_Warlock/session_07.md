@@ -144,4 +144,21 @@ Matheris insert the key in the keyhole of the door and it goes in. Jinxia checks
 
 Matheris, now healed, looks around. Thinks the chest seems deeper than trays on top. Finds a false bottom in the check and within it are 2 potions. One recognized as a healing potion. The other has a picture of an arm and muscle. Matheris assumes thats a strength potion and saves for later.
 
-We see nothing else in the room and decide to ascend the stairs beyond the freshly opened door.
+We see nothing else in the room and decide to ascend the stairs beyond the freshly opened door. As we start going up we notice some light. Seems like natural light. As we come up there is a solid stone room about 9 feet by 9 feet and 8 feet tall. There's a door on one side. Sunlight on the other side. Metal door with a lock on it. The walls are like marble.  Jinxia checks the door for traps. Doesn't find any, and Matheris checks for traps. He also notices none.  Hereist unlocks the lock controlled by a deadbolt on the inside and slowly opens the door. Sees sunlight, and the grounds. He then exclaims "It's a fuckin graveyard!"
+
+We appear to be in a mausoleum. There are other people on the streets nearby. Nobody in teh graveyard. Matheris clears the ink off his skin. Jaxxen changes to appear to be a human. There is a keyhole on the outside of the door and the key works in it. Jinxia checks for traps and doesnt see any. The key fits properly.
+
+We don't recognize where we are but see a commoner approach with flowers. Matheris wishes her a good day. Jaxxen looks for any wording over the mausoleum and notices the name .. "ZELDAR". As we exit the cemetary, we find a plaque noting the name of the place as the "Fizer Cemetary".  There are no street signs indicating where we are.  The druid points north and thinks we may be down Dagger Blvd a ways. 
+
+We head back towards the Drunken Goblin but cut across through alleys and side streets towards the stables. We stop at a clothing store for some fresh garbs. Edwin buys a dark hooded cloak. Matheris gets some costumes for bardic disguise. Jaxxen buys a fancy puffy pirate shirt and trousers and a dress for his "wife back home". Ulysses gets some new clothes as does everyone else. We then heads to the stabls, drop off Nathair and Ulysses and Matheris swaps some things in his chest. We goto Malachi Weapons to sell excess goods, and Matheris buys 100 bolts at the archery.
+
+## Level Up
+
+Everyone levels up.
+
+Matheris, Jinxia and Jaxxen are now level 3.
+
+Ulysses, Edwin, Northair, Hereist are now level 2.
+
+Jaxxen feels a warmth from his ring go through his body. Feels the symbol on his arm warm as well. Then it returns to normal. Feeling this, Jaxxen looks at the ring and its glowing bright gold for a few minutes before returning to normal appearnce. He now feels attuned to the Ring of Protection.
+
