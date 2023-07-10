@@ -11,6 +11,8 @@
 
 _unformatted rough notes follows_
 
+## Day 8 (still)
+
 Matheris, before turning on Owl street for inn and stables, there was a vendor near there that had some unusual items, a bowl of bird heads, bowl of feathers, ground up silver, silver shavings. Was able to determine couple items, sold some things...
 
 Guy is an alchemist of such. Did some trading, sold his baselisk egg, identified potion Matheris had in stainless steel vial, a top end healing potion that he sold. And he bought some spell components so he can do identify by  himself. His name was Pulk. After negotiating and selling egg and flask, 4d6+10 healing, sold. Good contact.
@@ -250,6 +252,7 @@ Matheris wants people to get behind him
 Stone goes hurling past.
 
 Order of initiative
+
 Jaxxen, Nathair, Hereist, Jinxia, Ulysses, Matheris
 
 Kobold misses
@@ -325,13 +328,14 @@ Little more active at this inn. 2 story inn. Rooms in back and up top we think. 
 some people eating and drinking
 We look for rooms that could hold multiple people. We get two larger rooms, 9 silver pieces per room.  Matheris negotiates a light meal and the rooms for 3gp total.
 
--- 
+
 Room arrangements
-	Matheris, Jinxia, Hereist
-	Jaxxen, Ulysses, Nathair
----
-break for snacks, return 8:30 PM CST
----
+
+- Room 1: Matheris, Jinxia, Hereist
+- Room 2: Jaxxen, Ulysses, Nathair
+
+## Day 9
+
 We sleep without incident, in the morning, fully healed, but clothes still slightly damp.
 Go down and get some eggs for breakfast. Jaxxen pays for self and Hereist, 2sp each. Nathair pays 2sp for himself. We're all eating. Not raining right now outside but cloudy. We dont want to goto the sewer. 
 We ask the waitress about the Drunken Goblin Tavern. She's never been herself, but indicates the road we should follow. This road will be a good days travel. A few streets over but still south. Three or Four blocks to the right and then head south. Jaxxen gives 2 copper pieces as a tip.
@@ -356,9 +360,10 @@ We hear loud noises coming from main street. People out everywhere. Loud music .
 We find Duck and Cover stables nearby. Human stablemaster. Says its 1gp per animal. Jaxxen pays for the 4 animals.
 
 There is an inn called the Crowbar Inn. There's a crow perched on the rim of a mug on the sign.  Get doubles rooms
-- Nathair and Ulysses
-- Matheris and Jinxia
-- Jaxxen with Hereist 
+
+- Room 1: Nathair and Ulysses
+- Room 2: Matheris and Jinxia
+- Room 3: Jaxxen with Hereist 
 
 Drunken Goblin.. a few half orc guards, some human barbarians, with two handed weapons, short swords on side, long swords, big heavy axe etc.  Jaxxen wants to check perimeter.  There's a female in purple robe, has mysterious look, unusual eyes, looking around at everything. Stands and looks at everyone entering. First floor has no windows at all. On second and third there are windows. On third are lots of lights amplifying out, much more than second. Around the back of the building one exit point and 9 heavily armed guards on back door. Some have fullplate, some chainmail, halberds, two handed axe, etc. Dont see any other doors except for these. See less windows in back. Two on second and third floor in back. Sides and front has more windows.
 
@@ -396,13 +401,15 @@ house roll, lands 5, npc wins
 matheris rolls, lands 6, house wins
 Jinxia rolls, tries slight of hand, shes caught cheating.
 Dealer stands up -- yells "CHEATER!"
-Guard is walking over. 
-Jinxia tries persuading that she didn't mean it, but fails.
-Guard puts big hand on small shoulder, says "come with me"
-Matheris stands up, goes with him as well. Has his arm around her neck but not hurting her.
-Leads them to the back of the kitchen area. To the left.
+
+Guard is walking over.  Jinxia tries persuading that she didn't mean it, but fails. Guard puts big hand on small shoulder, says "come with me"
+Matheris stands up, goes with him as well. Has his arm around her neck but not hurting her. Leads them to the back of the kitchen area. To the left.
+
+_Jaxxen_
 
 Jaxxen stays behind at the table. Convinces that he isn't part of them.
+
+_Matheris and Jinxia_
 
 Door at kitchen says Do not enter. Inside there is a place with a cage and a lock on it. Like a small jail cell. Guard tells Matheris to get in. Matheris tries to persuade the guard to just let them leave the guard tonight.  Guard pushes Matheris and Jinxia into the cage. Locks the cage. Says they'll be in there for a few hours.   Theres another guy laying there drunk in the corner. Smell on em. passed out. In another cell a pretty rough character with black robes and tattoos.  Matheris asks what the other guy is in for. He says "murder". Says some guy was in his way. Jinxia is subtly searching the passed out dude to see if anything in his pockets. Old man farts really loud and stinks really bad. Jinxia finds some components for something, and two platinum pieces.  Old man wakes to, asks what Jinxia is doing. Its Otto! Matheris: Thought you were dead, smell like you took a shit! Did you ever take that shit? Otto: I take shits all the time, something i gotta live with. Matheris: why you in jail? Otto: got in a brawl on the second floor. ive never made it to the third floor yet. Matheris: ever been in jail here before? Otto: no its my first time. I think we'll be out in a few hours.
 
@@ -414,62 +421,101 @@ House:    2
 1 Girl 1: 1
 2 Girl 2: 4
 3 Jaxxen: 6
+
+_Jaxxen_
+
 Jaxxen leaves the table, goes to other bar, and continues around to see how the guards take people. Bartender, asks how can i help. I get an ale and ask if theres been any problem.  Bartender warns about a man in brown robes, to watch him hes dangerous, killed someone. I thank him for his warning. I check around and see the stairs, its VIP access. Jaxxen tries to get through, and claims his name but the guy doesnt recognize and turns me away.. I listen a bit and realize. I go to the other guard and cnvince him I'm Gerico on the list, but he only sees Geico.  
+
 Jaxxen convinces thats his name and its spelled wrong. Jaxxen heads up the steps.  Comes to a door. Another guard welcoming me in. Inside this room is mirror image of bottom facing opposite direction. stage on opposite end. floor is carpet. real pretty designs. more up class. more pleasant. Jaxxen mingles about to overhear any interesting conversations.. hear some wealthy people, could be nobles, jewelry attire and clothes well off. Within earshot hear there has been an uprising at the inner city. As time goes on, hear about..used to be no king, was a free city. someone stepped in proclaimed themself as king with small army to be in such position. one of the nobles said one of them fucking casket nails killed him. next thing you kow they were dragging him through the streets with 23 arrows in his body and someone put a tattoo on his forehead of casket nails. talking about doing away with the entry tax.
 
-Matheris and Jinxia... cells are adjacent to the other one with the murderer. Matheris tries starting a dice game. The guy will play for silver. Otto says sure, why not.  Old man sits down
+_Matheris and Jinxia_
+
+Cells are adjacent to the other one with the murderer. Matheris tries starting a dice game. The guy will play for silver. Otto says sure, why not.  Old man sits down
+
 They gamble amongst themselves for a bit. Guards come in and throw someone else in the cell. They have his arms tied behind his back, and they tie him to the bars. Hes banging his head on the bars. Very violent. Guards leave. Jinxia hides behind Matheris tries talking to him. ONe of the hands gets lose, and hooded robed figure behind him smiling. Big guy could be getting loose. Matheris attempts to persuade him but fails. Jinxia hiding behind Matheris with daggers ready if needed. Matheris asks him to please calm down.  Guy breaks free and lunges toward Matheris. Matheris misses. Guy hits Matheris for 3. Jinxia goes to stab him in the back with a dagger. The guy gets her and throws her against the cell bars for 4 damage. Sword in back. Matheris misses. Guy hits Jinxia for 4 damage. Jinxia tries to attack and hits for 5. Matheris tries to put him in a choke hold. The guy isnt able to pull away. Jinxia will try to stab him. The guy is still fighting. pushes body weight tries to push away, major fail and still in choke hold, prone position. Jinxia kills him. Matheris heals Jinxia a bit. Hooded figure in next cell says "bravo .. bravo".. Matheris: Thank you i think.  Guy has partial mix match, some plate, some studded leather, screwed up stuff.
 
-
+_Jaxxen_
 Jaxxen is curious... Calls the wait staff over to top up this groups glasses. Introduces himself as Gerico. And then says I couldnt help but overhear your discussions into the Casket Nails and the deposed king. The Casket Nails sounds like quite a strong group of people wouldnt you say?
-Gwinn: Thanks for the drinks. ... its been an interesting time in the inner city
-1. Why won't the city guards expel them?
-Most people around say its the most dangerous guild of nostr, an assassin guild, very dangerous, they have no mercy
-2. Have you ever seen any of them yourself?
-we thought we were going to be able to capture one but they killed him before hand. they killed their own person so they wouldnt be ratted out. They are called the casket nails. THey all have a tatoo somewhere on their body of nails. like three nails somewhere. They killed the temporary king. Nostr is so big and powerful it 
-3. Heard of any other groups like them?
-There are other guilds. I dont know there names. Thieves are thieves. Wish there were none but the city brings all sorts.
-4. What brings you... to the Drunken Goblin Tavern
-we like to get out and mingle a little bit.
-there's several pretty half elf girls in a seated circular booth.
-drinking fine fluted glasses.
-we like to have a little fun here.
-5. where else would you hang out then
-i tell the stories of the spiders encountered. the girls and the well off guys are enthralled with the story. would be terrifying. I bet bards would tell tales of it.
+
+Gwinn: "Thanks for the drinks. ... its been an interesting time in the inner city"
+
+Jaxxen asks some more questsions
+
+1. "Why won't the city guards expel them?"
+
+Gwinn: "Most people around say its the most dangerous guild of nostr, an assassin guild, very dangerous, they have no mercy"
+
+2. "Have you ever seen any of them yourself?"
+
+Gwinn: "We thought we were going to be able to capture one but they killed him before hand. they killed their own person so they wouldnt be ratted out. They are called the casket nails. They all have a tatoo somewhere on their body of nails. like three nails somewhere. They killed the temporary king. "
+
+3. "Heard of any other groups like them?"
+
+Gwinn: "There are other guilds. I dont know there names. Thieves are thieves. Wish there were none but the city brings all sorts."
+
+4. "What brings you... to the Drunken Goblin Tavern?"
+
+Gwinn: "We like to get out and mingle a little bit. "
+
+There's several pretty half elf girls in a seated circular booth. drinking fine fluted glasses. 
+
+Gwinn: We like to have a little fun here."
+
+5. "Where else would you hang out then?"
+
+Jaxxen tells the stories of the spiders encountered. The girls and the well off guys are enthralled with the story. would be terrifying. I bet bards would tell tales of it.
+
 They mention Damus here is an exceptional bard playing and singing great with magical effects
+
 Jaxxen indicates that its interesting to see what the commoners downstairs are doing from time to time but ruckus
-conversation indicates there is another way in that is calmer. They are drinking expensive wine. Each round its 6 gp. They are a little inebriated as well.
-After more hours of talking they live in inner city and have political discussions. it has its own wall, they talk of things and there have been a  number of incidents in certain parts of town and sewers have been dangerous. One of it says "i better call it a night" and the girl that was with him gets up. They go towards the stairwell, but instead go to mirror that is a revolving door. They push on edge of mirror. it rotates 360 degrees. they are on the other side. Jaxxen then tells the group that he needs to leave and enters the mirror. Theres a passage down to the back on a spiral down, and up to the top. Jaxxen takes spiral stairs down, ornate decorative carpet stairs. On grond level. What appars to be a door. Theres another guard down here. Hes not concerned about me. Hes tired. I go through the door to the outside. its an alleyway, behind me looks like there isn't even a door here at all. On distance both sides of alley there are guards. I see the guy that left straight ahead about 50 feet with his lady. He has a guard with him.  I dont see a door where i came from. its a secret entrance.  Walk down alley toward front of building. Alleys are clean. Hear music from the building. I get to the front of the place. Guard looks at me, walks towards me.  Jaxxen heads towards the direction guard was pointing to where the wealthy man went. Narrow alley. It comes to a nice pretty door. Very ornate iron handle. Pretty statues. Back of a building. I try to open the door. It opens to a building thats fairly empty. Velvet curtains on front are closed. Walk around small wall that says Closed on front door. One room small building. Looking outside see someone hanging around on outside of door. Doesnt look armed. Maybe trying to blend in. Jaxxen periodically checking what the guy does. Then I hear door from back door open up. Another couple approaching. I show the gentlemen out there. Ask what hes doing there. They indicate hes friendly. I say I must have had too much tonight. They open the door. He greets them. I step outside and am greeted. we have conversation and i depart. Head on street to the left and another left to main road of Drunken Goblin. Pass the guards that seen on alleyway on left of building.  Jaxxen heads back to the inn. Talks to Hereist and describes what happened with Matheris and Jinxia. Hereist and Jaxxen heads back to DGT. We're in line. Its shorter line, 230 in the morning. Louder than ever. Guards dont take any crap. Most checked over and pay their gold and get in. Hereist and Jaxxen get entry to DGT. Magical effects from the bards and all playing in synch and everything. tons of beautiful and ugly women. Jaxxen shows Hereist where the dice table was and we end up talking to some guards to try to find out where they  take people.
+
+The conversation indicates there is another way in that is calmer. They are drinking expensive wine. Each round its 6 gp. They are a little inebriated as well.
+
+After more hours of talking they live in inner city and have political discussions. it has its own wall, they talk of things and there have been a  number of incidents in certain parts of town and sewers have been dangerous. One of it says "i better call it a night" and the girl that was with him gets up. They go towards the stairwell, but instead go to mirror that is a revolving door. They push on edge of mirror. it rotates 360 degrees. They are on the other side. 
+
+Jaxxen then tells the group that he needs to leave and enters the mirror. Theres a passage down to the back on a spiral down, and up to the top. Jaxxen takes spiral stairs down, ornate decorative carpet stairs. On ground level. What appars to be a door. Theres another guard down here. Hes not concerned about me. Hes tired. Jaxxen goes through the door to the outside. Its an alleyway, behind me looks like there isn't even a door here at all. On distance both sides of alley there are guards. Jaxxen sees the guy that left straight ahead about 50 feet with his lady. He has a guard with him.  Jaxxen doesnt see the door he came out of, its like a secret entrance.  Walk down alley toward front of building. Alleys are clean. Hear music from the building. I get to the front of the place. Guard looks at me, walks towards me.  Jaxxen heads towards the direction guard was pointing to where the wealthy man went. Narrow alley. It comes to a nice pretty door. Very ornate iron handle. Pretty statues. Back of a building. Jaxxen tries to open the door. It opens to a building thats fairly empty. Velvet curtains on front are closed. Walk around small wall that says Closed on front door. One room small building. Looking outside see someone hanging around on outside of door. Doesnt look armed. Maybe trying to blend in. Jaxxen periodically checking what the guy does. Then Jaxxen hears the back door open up. Another couple approaching. Jaxxen shows them the gentlemen out there. Ask what hes doing there. They indicate hes friendly. Jaxxen says he must have had too much tonight. They open the door. He greets them. Jaxxen steps outside and is greeted. After a brief conversation, departs and heads on street to the left and another left to main road of Drunken Goblin. Pass the guards that seen on alleyway on left of building.  Jaxxen heads back to the inn. Talks to Hereist and describes what happened with Matheris and Jinxia. Hereist and Jaxxen heads back to DGT. They get in line and its shortern now, about 2:30 in the morning but louder than ever. Guards dont take any crap. Most checked over and pay their gold and get in. Hereist and Jaxxen get entry to DGT. Magical effects from the bards and all playing in synch and everything. tons of beautiful and ugly women. Jaxxen shows Hereist where the dice table was and we end up talking to some guards to try to find out where they  take people.
+
+_Matheris and Jinxia_
 
 Matheris does short rest with Jinxia and he does his bardic stuff to improve healing as well.
-Guards open up and bring in some dwarves. See the guy dead and asks what happened. Matheris says the guy attacked him and they had to defend themselves. Matheris pleas and asks if can get out of here. Dwarf face all bloodied. Guard punches him in face and he gets knocked unconscious. Then locks the cell. Guards slam the main door and leave. Other guy in cell fighting two drunk dwarves. Jinxia looks over knocked out dwarves possessions. Matheris takes off his belt to try to wrap around a dwarf if comes over. Fails.
+
+Guards open up and bring in some dwarves. See the guy dead and asks what happened. Matheris says the guy attacked him and they had to defend themselves. Matheris pleas and asks if can get out of here. Dwarf face all bloodied. Guard punches him in face and he gets knocked unconscious. Then locks the cell. Guards slam the main door and leave. Other guy in cell fighting two drunk dwarves. Jinxia looks over knocked out dwarves possessions. 
+
+Matheris takes off his belt to try to wrap around a dwarf if comes over. Fails.
+
 Hooded robe guy stabs dwarves. Hes getting bloodied.
-Jinxia finds small hammer like a jewelers hammer, 3gp, 11sp.
-Ornate hammer. Kind of fancy.  Shows to Matheris. He doesnt know and Jinxia puts it back. THey look at the hooded cloaked frenemy.
-He stabs another dwarf. Bloodied and killed em both.
-M: What brings you to this tavern?
-Hooded: to relax and unwind
-been trying to get to the second floor, dont know how. and i know theres' a third floor.
-M: what do yu do for a living
-Hooded: nothin really. just a drifter.
-M: fair enough, me too, traveler and seeker of tales
-They wish they could get out
-Jinxia begins picking the lock. fails.
-Hooded character asks if he can try.
-Jinxia worried she'll be double crossed, but hte man promises.
-Hooded guy gets it unlocked on his. Opens it. Starts to walk out and plans to walk out and leave them there. He smiles and comes back. He saw the keys somewhere. He cant find and tries to pick their lock and is successful. He asks Jinxia if she would be willing to sell her tools. Had his taken away earlier. Jinxia hesitates and says they were given to her by her mother. Hooded guy doesnt have enough to buy. Jinxia asks his name. He doesnt usually doesnt give it out. He says its Mercan. Asks where they could find him again if find some work or interesting situations.  He mentions a place down at the harbor.
-Theres a place down at the harbor. Help one of the the harbor masters.. do some work there. Look for common little red dragon inn can find me sometimes if im not here at the drunken goblin.
-Matheris ... despite killin someone they let you back in eh? 
-Mercan: yeah.. i dont think we'll ahve any trouble.
+
+Jinxia finds small hammer like a jewelers hammer, 3gp, 11sp. Ornate hammer. Kind of fancy.  Shows to Matheris. He doesnt know and Jinxia puts it back. THey look at the hooded cloaked frenemy.
+
+Hooded robe guy stabs another dwarf. Bloodied and killed em both.
+
+- Matheris: What brings you to this tavern?
+-- Hooded guy: To relax and unwind. Been trying to get to the second floor, dont know how. and i know theres' a third floor.
+- Matheris: What do yu do for a living?
+-- Hooded guy: nothin really. just a drifter.
+- Matheris: Fair enough, me too, traveler and seeker of tales
+  
+They wish they could get out. Jinxia begins picking the lock. fails. Hooded character asks if he can try. Jinxia worried she'll be double crossed, but the man promises. Hooded guy gets it unlocked on his. Opens it. Starts to walk out and plans to walk out and leave them there. He smiles and comes back. He saw the keys somewhere. He cant find and tries to pick their lock and is successful. He asks Jinxia if she would be willing to sell her tools. Had his taken away earlier. Jinxia hesitates and says they were given to her by her mother. Hooded guy doesnt have enough to buy. Jinxia asks his name. He doesnt usually doesnt give it out. He says its Mercan. Asks where they could find him again if find some work or interesting situations.  He mentions a place down at the harbor. Theres a place down at the harbor. Help one of the the harbor masters.. do some work there. Look for common Little Red Dragon Inn can find me sometimes if im not here at the Drunken Goblin.
+
+- Matheris:  despite killin someone they let you back in eh? 
+-- Mercan: yeah.. i dont think we'll ahve any trouble.
+
 He takes his hooded robe off completely, throws to the side. I cant be in black robes i'll be picked off easily.  
-Matheris: Think they'll even notice we're gone?
+
+- Matheris: Think they'll even notice we're gone?
+
 Matheris walks over and shuts cell doors.
-Mercan: Im gonna get out of here. if they catch me im a dead man.
+
+- Mercan: Im gonna get out of here. if they catch me im a dead man.
+
 He exits, and tries to blend in and shift around dodging guards. Then he has a red cape on that he swiped. Then hes blending in even more. and hes off in the distance.
-Matheris and Jinxia slip out as well trying to blend in. Going to just act like a drunken fellow. Back at stage he sees a bard going up stage with his instrument and looks at Matheris asking if playing tonight.  Matheris says he needs better attire for a performance. He gets a change of clothes back there. 
-Finds some decorative pants, matching shirt. Have to leave armor sitting somewhere.
+
+Matheris and Jinxia slip out as well trying to blend in. Going to just act like a drunken fellow. Back at stage he sees a bard going up stage with his instrument and looks at Matheris asking if playing tonight.  Matheris says he needs better attire for a performance. He gets a change of clothes back there. Finds some decorative pants, matching shirt. Have to leave armor sitting somewhere.
+
+_Jaxxen and Hereist_
 
 Jaxxen and Herist talk to the guards to find out where they throw people in the back that are problematic. Then head up towards the stage area. See skinny old man we know with a walking stick. See Otto. I rush with Hereist over towards Otto. Otto was fixin to go up the steps to the 2nd floor. Jaxxen motions to Otto, Hey how are you. Jaxxen whispers to Otto that we're looking for Matheris and Jinxia in holding cells. Otto tells us about Jinix and matheris able to escape and Otto going to head to the 2nd floor. Jaxxen says he wants to get reunited with Matheris and Jinxia and says that hes been to the second floor as well. Then the curtains rise and next set is setting up and Matheris is there. Otto points them out and Jaxxen in complete shock.  
+
 Otto heads back to second floor and jaxxen watches Matheris
 
 Otto heads to guard talks a bit and heads up stairs.
@@ -477,17 +523,21 @@ Otto heads to guard talks a bit and heads up stairs.
 Matheris playing his heart out on stage with the other bards.
 
 Jaxxen gets drinks with Hereist to enjoy the show and wait for Matheris. A little halfling female comes up and tries to strike a conversation. and offers to buy a drink. large chested lady comes over. Halfling buys a round for us. Jaxxen asks her what her name is. She says its Telina. Asks if shes here by herself, and she says friend is in the back. In trouble, has someone after him. Someone wanting to kill him.  Hes in the front of room with someone that wants to hurt him. Shes offering 10gp. But she wont talk to the guards thinks they cant get to him in time.  Jaxxen asks her to lead us to where this is. 
-Toward front small stage, there's a male halfling, sitting there
-table right across him.table cloth over table. Hands of big guy aren't completely visible. Says thats friend Bren, hes a halfling. That man is wanting to kill him. Please, i'll pay you.
+
+Toward front small stage, there's a male halfling, sitting there at table. Table cloth over table and across from him is a big guy. Hands of big guy aren't completely visible. Says thats friend Bren, hes a halfling. That man is wanting to kill him. Please, i'll pay you.
+
 Jaxxen looks to see if anyone else with the big guy.
-Hes standing up folded and crossed. flanking. also looking at
-the halfling.
+
+Hes standing up folded and crossed. flanking. also looking at the halfling.
+
 Jaxxen sends telepathic message to halfling that hes here to help and get ready to run.
+
 Jaxxen then gets mirror and tries to reflect it into the guys eyes. Cast Thaumaturgy and brighten the light.  Try to reflect the light but fail miserably. Light goes back to normal.
+
 I walk to table to see if i can tlak to him. Guy standing arms come down takes a step forward. Guy at table asks what i want, I telepathically say "now", and i tell the guy there's someone important that wants to see you. Short sword. Halfling tried to dive but got cut hurt. Guy with crossed arms going for halfling.
 roll initiative
 
-matheris finishes his set. he talked to head of entertainment named Selena. Flamboyant elf with purple puffy clothes and feather. Wrote his name down as a backup. Then he gets jinxia puts his armor back on. they avoid guards, try to get to bar to grab a drink. Matheris gets elven wines for him and jinxia. they sip and socialize the way to the front.
+Matheris finishes his set. he talked to head of entertainment named Selena. Flamboyant elf with purple puffy clothes and feather. Wrote his name down as a backup. Then he gets jinxia puts his armor back on. they avoid guards, try to get to bar to grab a drink. Matheris gets elven wines for him and jinxia. they sip and socialize the way to the front.
 
 Jaxxen puts a dagger to the guy's crotch sitting. sword guy draws and jaxxen says look down. Guy tells him to wait. then Jaxxen says I said there was someone important that wanted to see you. Head to the back, tell the guards your name is Jared and they'll let you up the stairs. The guy asks who? Jaxxen says I think you know who. The guy says "Jake?". 
 
@@ -495,105 +545,105 @@ At this point Matheris and Jinxia join. We explain briefly what happened. Hereis
 
 Number of guards outside. 330 to 4am in the morning. As we go out. Halflings had ducked right across the street into a tavern across the street. We decide to pursue them into the tavern called 
 
+### The Bottomless Goblet
 
-The Bottomless Goblet.
 There's no cover to get in or a guard. We hear music playing inside. Nothing out of the ordinary.
+
 When we get in, see lot of light moving around, bard up on stage. Much smaller place. Playing quite well. About 30 people here cheering him on.  
+
 Jaxxen: The guys name is Bren, we should ask if anyone's seen them.
-Jinxia goes to dark corner, while Matheris talks to barkeep.
-Jaxxen goes to check the back to see if he can find Telina or Bren.  A guy comes around and asks if I need a room. And I say now and want to see the guest list which he refuses but reveals that yes, Telina and Bren stay there but he wont reveal their rooms. Jaxxen orders an ale and hangs out there looking for Telina and Bren.
-Matheris talks to the barkeep looking for sidework. and asks if seen Bren who got hurt.
-Barkeep says they came in got an ale and went upstairs
-Matheris offers to do some healing. The barkeep says to talk to the man over by the rooms where tiefling (jaxxen) is talking. 
-Matheris tries to convince the guy to send a message to the halflings that he can heal them.
-An elf comes around the corner. The man has the elf give a message to the halflings.
-They didnt want to come down.
-Jaxxen sees Telina popping around the corner
-jaxxen telephatically sends a message "Dont mean to hurt you, just want you to make good on the deal".
+
+Jinxia goes to dark corner, while Matheris talks to barkeep. Jaxxen goes to check the back to see if he can find Telina or Bren.  A guy comes around and asks if I need a room. And I say now and want to see the guest list which he refuses but reveals that yes, Telina and Bren stay there but he wont reveal their rooms. Jaxxen orders an ale and hangs out there looking for Telina and Bren.
+
+Matheris talks to the barkeep looking for sidework. and asks if seen Bren who got hurt. Barkeep says they came in got an ale and went upstairs. Matheris offers to do some healing. The barkeep says to talk to the man over by the rooms where tiefling (jaxxen) is talking. Matheris tries to convince the guy to send a message to the halflings that he can heal them. An elf comes around the corner. The man has the elf give a message to the halflings. They didnt want to come down. Jaxxen sees Telina popping around the corner
+
+Jaxxen telephatically sends a message "Dont mean to hurt you, just want you to make good on the deal".
+
 Telina comes down, pulls out a pouch and offers the pouch. 
-Matheris asks if hes ok
-Telina been tending to his wounds.
-Matheris offers to heal. Telina has no more gold.
-Telina got his bleeding to stop
-Jaxxen asks if he should join
-Matheris suggests to stay and watch the door
-Telina leads Matheris to room (212).
-Deep cut.
-Matheris heals for 4 and Bren thanks him. Telina hugs Bren and then Matheris.
+
+_Matheris_
+
+Matheris asks if hes ok.  Telina been tending to his wounds. Matheris offers to heal. Telina has no more gold. Telina got his bleeding to stop. Jaxxen asks if he should join. Matheris suggests to stay and watch the door. Telina leads Matheris to room (212). Its a deep cut. Matheris heals for 4 and Bren thanks him. Telina hugs Bren and then Matheris.
+
+_Jaxxen and Jinxia_
+
 The guys from DGT come in.
-Jaxxen notices and changes appearance to be like a half-elf
-They talk to the bar.
-Man mentions halflings says a teifling was asking
-but disappeared
-Jinxia half drunk, says whats your problem with halflings, your fucking racist.
+
+Jaxxen notices and changes appearance to be like a half-elf.  They guys talk to the bartender.  Man mentions halflings says a teifling was asking
+but disappeared. 
+
+Jinxia half drunk, says whats your problem with halflings, your fucking racist?!
+
 He gets down on her level asking where Telina and Bren
+
 Jaxxen says : quit picking on the halfing
-The barkeep asks whats important about he halflings
+
+The barkeep asks whats important about the halflings?
+
 Jinxia says that these guys are racist against halflings
+
 Guard comes over asking whats going
-Security tells the two guys to leave.
-Jinxia wants a drink
-Jaxxen says this is the problem with dgt, get overflow of idiots causing trouble.
 
-sec1: 20
-bad1: 11
-bad2: 19
-jax:  6
-jinx: 23
+Security tells the two guys to leave. Jinxia wants a drink
 
-security guy hits for 4 then hits the other guy for 9
-jinxia catapults off barstool, attempting to skewer with rapier but misses
+Jaxxen says this is the problem with the Drunken Goblin Tavern. Get overflow of idiots causing trouble.
+
+Security Guy 1: 20
+Badguy 1: 11
+Badguy 2: 19
+Jaxxen:  6
+Jinxia: 23
+
+Security guy hits for 4 then hits the other guy for 9
+
+Jinxia catapults off barstool, attempting to skewer with rapier but misses
+
 badguy2 pulls a sword and swinging at security guy, strikes for 4
+
 badguy1 hits security guy with short sword for 5
-jaxxen misses an attempt to stab the guy
 
-security guy misses his attack
-jinxia hits him stabbing hard killing him.
-badguy1 swings for jinxia, hits for 3 daage
-jaxxen misses
+Jaxxen misses an attempt to stab the guy
 
-security guy misses
-jinxia hits the guy for 12, and he falls dead.
+Security guy misses his attac
+
+Jinxia hits him stabbing hard killing him.
+
+Badguy1 swings for jinxia, hits for 3 daage
+
+Jaxxen misses
+
+Security guy misses
+
+Jinxia hits the guy for 12, and he falls dead.
 
 Jinxia shouts "whose the half shit now?!"
 
-crowd was excited about the fight.
-security guard sits down. 
-jaxxen drags the guys outside and tosses them in the alley.
-jinxia checks their pockets
-bartender heads back inside
-jinxia looting them
-jaxxen checks for tattoos. dont see anything on arms or hands
-jinxia finds.... pops open shirt and sees tatoo of three nails
-jaxxen mentions who they are as the casket nails
-jinxia sees short sword, dagger (looks really good), thieves tools, and trinkets. 3pp, 14gp, 3cp 
+Crowd was excited about the fight. Security guard sits down.  Jaxxen drags the dead guys outside and tosses them in the alley. Jinxia checks their pockets. Bartender heads back inside. Jinxia looting them. Jaxxen checks for tattoos. dont see anything on arms or hands. Jinxia finds.... pops open shirt and sees tatoo of three nails. Jaxxen mentions who they are as the casket nails. Jinxia sees short sword, dagger (looks really good), thieves tools, and trinkets. 3pp, 14gp, 3cp. 
 
-Matheris asks them what kind of trouble they were in.
-They wanted Bren to kill somebody and if he didnt they would kill Telina. Have heard bad stuff about these men.
-Thinks its because Bren works with another guy.
-They seemed angry all the time. were trying to kill him and then me. 
-M: how long has been goig on?
-for last couple of days, he wouldnt kill his coworker and was sure they would kill him.
-dont know why they wanted him to kill 
-M: what does he do
-he works at a jewelry shop. just makes pretty jewelry
-M: what jewelry shop
-pain crats jewelers, a few blocks that way ...
+_Matheris_
+
+Matheris asks them what kind of trouble they were in. They wanted Bren to kill somebody and if he didnt they would kill Telina. Have heard bad stuff about these men. Thinks its because Bren works with another guy. They seemed angry all the time. were trying to kill him and then me. 
+
+- Matheris: how long has been goig on?
+  - Telina: For last couple of days, he wouldnt kill his coworker and was sure they would kill him. dont know why they wanted him to kill 
+- Matheris: what does he do
+  - Telina: He works at a jewelry shop. just makes pretty jewelry
+- Matheris: what jewelry shop
+  - Telina: Painkratz Jewelers, a few blocks that way ...
+
+_Jaxxen and Jinxia_
+
+Jinxia notices cross at DGT looking across the road. And he sees the bodies, looking our way.
+
+Jaxxen says just keep walking. Tells Jinxia what he heard about the Casket Nails earlier. This guy has only seen a half elf and a halfling.
 
 Regroup at bottom of the bar of Bottomless Goblet
 
-Jinxia notices cross at DGT looking across the road. And he sees the bodies, looking our way.
-Jaxxen says just keep walking. Tells Jinxia what he heard about the Casket Nails earlier. This guy has only seen a half elf and a halfling.
-
 Matheris coming down heals the security guard a few points.
 
-We take a back way out of the Bottomless Goblet
-to head back to the Crowbar Inn
-We leave and worker locks door behind us.
-We go down alleyway.  Get toward the inn
-We look down and see 3 dark hood figures heading to the Bottomless Goblet.
+We take a back way out of the Bottomless Goblet to head back to the Crowbar Inn. We leave and worker locks door behind us. We go down alleyway.  Get toward the inn. We look down and see 3 dark hood figures heading to the Bottomless Goblet.
 
-We get the guys at Crowbar Inn,and go out window, go looking for another inn a few blocks away
+We get the guys at Crowbar Inn, and go out window, go looking for another inn a few blocks away
 
 The Dapper Dragon Inn
 
