@@ -89,6 +89,8 @@ _main group_
 
 Several in the party hear Ulysses outside and guards that were screaming and running off.  They want to save Ulysses.  We pull open the door and see fire and a heavily damaged guard. The Guard hits Nathair. Jaxxen misses with Chill Touch. Jinxia thrusts rapier killing the guard quickly. We see some people outside looking at us. Matheris tries to persuade the commoners to help us and rise up against the corruption of the city.
 
+## The Sewers
+
 _back to Edwin_
 
 Edwin has three guards on his tail. He passes on heading to Drunken Goblin and turns down Dagger Boulevard. Sees a manhole cover. He casts Entangle behind him about 90 feet. covering a 20 foot square. The gaurds on horses get through unscathed.  Edwin tries using his quarterstaff as leverage but its too big for the hole. He tries with his might to lift the cover by hand and succeeds. A guard is close enough to attack but misses on the attempt.  Edwin jumps into the manhole and falls into a sploosh of deep water. The water is moving swiftly.
