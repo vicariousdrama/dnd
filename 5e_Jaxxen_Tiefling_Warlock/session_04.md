@@ -11,7 +11,7 @@
 
 _unformatted rough notes follows_
 
-## Day 8 (still)
+## Day 8 (afternoon/evening)
 
 Matheris, before turning on Owl street for inn and stables, there was a vendor near there that had some unusual items, a bowl of bird heads, bowl of feathers, ground up silver, silver shavings. Was able to determine couple items, sold some things...
 
@@ -20,9 +20,7 @@ Guy is an alchemist of such. Did some trading, sold his baselisk egg, identified
 ---
 
 Nathair is an old dragonborn, doesnt fit in with the city, and is kind of a night of the woods and thats where he met Ulysses.
-Ulysses not afraid of Nathair and has his back.
-Nathair has a horse, considering stabling his horse.
-Ulysses talks about the spiders in arachnid forest
+Ulysses not afraid of Nathair and has his back. Nathair has a horse, considering stabling his horse. Ulysses talks about the spiders in arachnid forest
 
 The group approaches
 
@@ -31,10 +29,12 @@ Talks of going to Drunken Goblin Tavern, Matheris has sung about it. 3 floors, v
 
 Nathair recounts how he has amnesia and doesnt remember anything before the monks took him in. And later is when he met Nathair
 
-Nathair fairly tall..6 foot, long neck that stoops with age. 
-wearing a dark grey cloak to cover himself. older dragonborn
+Nathair fairly tall..6 foot, an older Dragonborn with long neck that stoops with age and wearing a dark grey cloak to cover himself.
 
-> player got kicked from VTT and couldnt get back in. had to recreate with different acct
+<details>
+  <summary>technical issues</summary>
+  player got knocked off from VTT and couldnt get back in. had to recreate with different account
+</details>
 
 Jaxxen appearing as a human to blend in. Matheris introduces himself. Jinxia waves but stays up on the mule. Chest on the mule. We are close to market.
 
@@ -151,37 +151,45 @@ Matheris slides down ladder.
 sees a torch barely burning.
 Nathair lights a torch and wants to jump down
 
-Jaxxen back at the room investigates.
-Finds a dagger under mattress, and 8cp, 2sp.
-Also on table, find some random drawings, nothing that makes any sense, like scribbles. Some clothes. Jaxxen pockets dagger and coin. 
-Dwarf was looking for something. Didnt care about dagger and coins. He's tossing room apart. 
-Jaxxen asks "What did those bastards take?!"
-Dwarf says - they took some keys. some keys he needed back.
-and thinks they got into some of his gold and hes upset about it. 
-Jaxxen says his friends will certainly catch them.
-Dwarf hates thieves. So does Jaxxen.
+_Jaxxen_
 
-The other group working down the ladder and looking.
-Ulysses goes down ladder
-Jinxia falls down but is uninjured
+Jaxxen back at the room investigates. Finds a dagger under mattress, and 8cp, 2sp. Also on table, find some random drawings, nothing that makes any sense, like scribbles. Some clothes. Jaxxen pockets dagger and coin.  Dwarf was looking for something. Didnt care about dagger and coins. He's tossing room apart.  
+
+- Jaxxen: What did those bastards take?!
+  - Dwarf: They took some keys. some keys he needed back. I think they got into some of my gold (_hes upset about it_)
+- Jaxxen: My friends will certainly catch them.
+  - Dwarf: I hate thieves!
+- Jaxxen: as do I.
+
+_Matheris_
+
+The other group working down the ladder and looking. Ulysses goes down ladder. Jinxia falls down but is uninjured
+
+_Jaxxen_
 
 Jaxxen goes back to bartender, whose trying to resetup the tavern. Broken table off to the side.
-How long have the gnomes been here
--just got here yesterday, couple hours ago came back as though they from a conquest.
-How long were they planning to stay
--another night, but havent gotten any coin
-Have you seen any of them before, or other gnomes
--6 seems abnormal, but didnt think much of it.
+- Jaxxen: How long have the gnomes been here
+  - Bartender: just got here yesterday, couple hours ago came back as though they from a conquest.
+- Jaxxen: How long were they planning to stay
+  - Bartender: another night, but havent gotten any coin
+- Jaxxen: Have you seen any of them before, or other gnomes
+  - Bartender: 6 seems abnormal, but didnt think much of it.
+
 Jaxxen heads to front door
-Elves talk in common, enquiring "what was that about"
-Jaxxen, under his breadth "thieves, damn thieves as usual"
-Out the front door  .. street somewhat busy
+
+Elves talk in common, enquiring "what was that about". Jaxxen, under his breadth "thieves, damn thieves as usual". Out the front door  .. street somewhat busy
+
+_Matheris group_
 
 Matheris down the hole.. its sewer water down below, the whole group down there trying to catch the gnomes
 Goes in tunnel to the right
 Ulysses asks Jinxia if she going. She's going in but hanging back. Banter asking Jinxia if Matheris is like her boyfriend. She says no, that hes helped her. And then Ulysses asks about the box.
 
-Jaxxen outside switches to elven appearance. Gets to manhole. Tells commoners in the area that its nothing to worry about, just some work being done in the sewers. Goes down, sees more footprints south to inner city, and heads in that direction.
+_Jaxxen_
+
+Outside, Jaxxen switches to elven appearance. Gets to manhole. Tells commoners in the area that its nothing to worry about, just some work being done in the sewers. Goes down, sees more footprints south to inner city, and heads in that direction.
+
+_Matheris group_
 
 Rest of party comes to door with a grate at bottom with sewer water flowing through. Rest of it is door with lock on it.
 Matheris tries looking under grate, sees it open in another room and tunnels in different directions. Doesnt see the gnomes.
@@ -194,23 +202,28 @@ Matheris casts healing word on self, fully healed, observing
 There's now two in the group with lit torches.
 Ulysses hitting on Jinxia, lit torch to see her better.
 Fighter with Matheris not sure what to do.
+
 The group determines how to split up...
--- Matheris, Jinxia
--- Ulysses, Hereist the Fighter
-Matheris asks Nathair how he handles himself in a fight. Nathair has a long sword, could go alone down another hallway?
--- Nathair down a third way.
+- Matheris, Jinxia
+ Ulysses, Hereist the Fighter
+
+Matheris asks Nathair how he handles himself in a fight. Nathair has a long sword, could go alone down another hallway?  Nathair down a third way.
 Blow a whistle, yell, or roar if anything goes wrong.
 Sewer made of stonework. Small stone. Ulysses takes a dart from pack and uses Nathair crowbard to hammer it in. Matheris plans to hang a lantern, tells group to turn back when cant see light anymore. They briefly consider writing note on a card but pass and begin heading out.
 
 Theres a slight bit of wind down the tunnels, blows the torches some, but not blowing them out, just flickering here and there. With torches and lantern it lights well where they are at. Its very stinky, nasty water on the bottom.
 
-Left: Ulysses and Hereist
-Straight: Nathair
-Right: Matheris and Jinxia
+- Left: Ulysses and Hereist
+- Straight: Nathair
+- Right: Matheris and Jinxia
 
 Jinxia hops on Matheris back, basically blind without any light.
 
+_Jaxxen_
+
 Jaxxen casts Armor of Agathys for shielding. See a smaller tunnel to the right or main to the right. See footprints into smaller tunnel. Crouching down head right into the tunnel. Going further, see a light ahead. Stationary. slowly approaching sewer walls with cloak around me. 
+
+_Matheris group_
 
 Ulysses and Hereist hear something walking towards them. Asks the fighter his name again. He whispers "Its Hereist." Should we go back? Ulysses thinks we should hide and go down tunnel. Hereist claims his armor is loud.
 
@@ -218,7 +231,11 @@ Nathair was going straight. Gets to a door like the last, grates on bottom to le
 
 Matheris and Jinxia had gone to the right. Matheris sees small tunnels, foot in diameter, every 10 feet, like feeder sewer lines. 
 
+_Jaxxen_ 
+
 Jaxxen getting to a light. Path goes in three directions. Past a door. Stationary light just around corner to left. Going to the left. See a lantern, held by a dart driven into the mortar. Yells "Is anybody down here?" and notices straight ahead and to the left a dim light. Listen intensely and wait.
+
+_Matheris group_
 
 Ulysses and Hereist hears what was behind them is moving faster.
 
@@ -228,11 +245,17 @@ Matheris and Jinxia barely sees the lantern. Up ahead see another metal ladder t
 
 Ulysses and hereist hears running behind them. Hereist is already into a stride with his long sword out and shield in left hand. See an arrow zip by both of them and hear a growling gnarly voice. Dashing towards lantern.
 
+_Jaxxen_
+
 Jaxxen hears something coming from left side. Aims down, steadied at corner as coverage. See Ulysses and Hereist running like mad towards me running for their life.
+
+_Matheris group_
 
 Nathair coming back, lantern visiblity getting brighter.
 
 Matheris and Jinxia heading back. They see lantern getting closer and see another light on opposite side, closer to lantern than you are. See it moving all over the place, moving erratically. Yells out.
+
+_regrouped_
 
 Jaxxen yells back to Matheris that saw Ulysses and Hereist running towards.
 
@@ -251,9 +274,11 @@ Matheris wants people to get behind him
 
 Stone goes hurling past.
 
-Order of initiative
+<details>
+  <summary>initiative rolls</summary>
+  Jaxxen, Nathair, Hereist, Jinxia, Ulysses, Matheris
+</details>
 
-Jaxxen, Nathair, Hereist, Jinxia, Ulysses, Matheris
 
 Kobold misses
 Jaxxen fires a shot and misses, runs towards Matheris
@@ -342,7 +367,11 @@ We ask the waitress about the Drunken Goblin Tavern. She's never been herself, b
 
 Matheris suggests we keep an eye out for an armorer. Maybe find something to suit Hereist better in a fight.
 
-> Nathair heads out / offline
+<details>
+  <summary>technical</summary>
+  Nathair heads out / is offline
+</details>
+
 
 The group decides to leave and go get our mounts.
 Matheris gets Serafina his mule and his chest.
@@ -352,7 +381,11 @@ No incidents in morning. All fine. Pass buildings, shops of all sorts.  More tim
 We continue on and see a tall old monastary. Matheris asks Ulysses if he recognizes any symbols.  Not noticing.
 Windows are dark black on inside.. we pass it.
 
-> Ulysses checks out / offline
+<details>
+  <summary>technical</summary>
+  Ulysses heads out / is offline
+</details>
+
 
 Late afternoon, early evening, getting dark.  We're still looking for Drunken Goblin Tavern. Have talked to people who point us in the right direction.  But we'll get there after ark. Drunken Goblin is just an tavern, but theres other inns and stables nearby. Its basically a lively street.
 We hear loud noises coming from main street. People out everywhere. Loud music . All the sudden see a three story building, massive, out front says Drunken Goblin Tavern. Line from front door all the way from front and along side of it. and Lots of security at entrance.
@@ -385,21 +418,26 @@ Grab a barstool, Jinxia on lower rung. Matheris sitting.
 Bards up on stage. In back, theres a male and female playing to the same tune, but makes room like surround sound. 
 Matheris pays for a round of drinks, Jaxxen pays for a round as well.  There's a lot of smoke up at the ceiling.  As we get more acclimated, around smaller stages there are some card table games. There's dice games as well. Every now and then someone gets upset, but no fights.  Matheris looks for a low stakes table. Sees a silver piece table.  We sit at the table.
 
-1 - Matheris
-2 - Jinxia
-3 - Jaxxen
-4 - NPC
-5 - NPC 
-6 - House wins
+Seating arrangements
 
-Matheris rolls, lands 1, matheris wins
-Jinxia rolls, lands 4, npc wins
-Jaxxen rolls, lands 4, npc wins
-NPC rolls, lands 4, npc wins
-NPC rolls, lands 3, jaxxen wins
-house roll, lands 5, npc wins
-matheris rolls, lands 6, house wins
-Jinxia rolls, tries slight of hand, shes caught cheating.
+- 1 - Matheris
+- 2 - Jinxia
+- 3 - Jaxxen
+- 4 - NPC
+- 5 - NPC 
+- 6 - House wins
+
+Rolling dice game...
+
+- Matheris rolls, lands 1, Matheris wins
+- Jinxia rolls, lands 4, NPC wins
+- Jaxxen rolls, lands 4, NPC wins
+- NPC rolls, lands 4, NPC wins
+- NPC rolls, lands 3, Jaxxen wins
+- House roll, lands 5, NPC wins
+- Matheris rolls, lands 6, House wins
+- Jinxia rolls, tries slight of hand and shes caught cheating.
+
 Dealer stands up -- yells "CHEATER!"
 
 Guard is walking over.  Jinxia tries persuading that she didn't mean it, but fails. Guard puts big hand on small shoulder, says "come with me"
@@ -414,13 +452,14 @@ _Matheris and Jinxia_
 Door at kitchen says Do not enter. Inside there is a place with a cage and a lock on it. Like a small jail cell. Guard tells Matheris to get in. Matheris tries to persuade the guard to just let them leave the guard tonight.  Guard pushes Matheris and Jinxia into the cage. Locks the cage. Says they'll be in there for a few hours.   Theres another guy laying there drunk in the corner. Smell on em. passed out. In another cell a pretty rough character with black robes and tattoos.  Matheris asks what the other guy is in for. He says "murder". Says some guy was in his way. Jinxia is subtly searching the passed out dude to see if anything in his pockets. Old man farts really loud and stinks really bad. Jinxia finds some components for something, and two platinum pieces.  Old man wakes to, asks what Jinxia is doing. Its Otto! Matheris: Thought you were dead, smell like you took a shit! Did you ever take that shit? Otto: I take shits all the time, something i gotta live with. Matheris: why you in jail? Otto: got in a brawl on the second floor. ive never made it to the third floor yet. Matheris: ever been in jail here before? Otto: no its my first time. I think we'll be out in a few hours.
 
 Jaxxen continues playing
-3 Jaxxen: 1
-4 Male 1: 3 - jaxxen wins
-5 Male 2: 5
-House:    2
-1 Girl 1: 1
-2 Girl 2: 4
-3 Jaxxen: 6
+
+- 3 Jaxxen: 1
+- 4 Male 1: 3 - jaxxen wins
+- 5 Male 2: 5
+- House:    2
+- 1 Girl 1: 1
+- 2 Girl 2: 4
+- 3 Jaxxen: 6
 
 _Jaxxen_
 
@@ -435,33 +474,26 @@ Cells are adjacent to the other one with the murderer. Matheris tries starting a
 They gamble amongst themselves for a bit. Guards come in and throw someone else in the cell. They have his arms tied behind his back, and they tie him to the bars. Hes banging his head on the bars. Very violent. Guards leave. Jinxia hides behind Matheris tries talking to him. ONe of the hands gets lose, and hooded robed figure behind him smiling. Big guy could be getting loose. Matheris attempts to persuade him but fails. Jinxia hiding behind Matheris with daggers ready if needed. Matheris asks him to please calm down.  Guy breaks free and lunges toward Matheris. Matheris misses. Guy hits Matheris for 3. Jinxia goes to stab him in the back with a dagger. The guy gets her and throws her against the cell bars for 4 damage. Sword in back. Matheris misses. Guy hits Jinxia for 4 damage. Jinxia tries to attack and hits for 5. Matheris tries to put him in a choke hold. The guy isnt able to pull away. Jinxia will try to stab him. The guy is still fighting. pushes body weight tries to push away, major fail and still in choke hold, prone position. Jinxia kills him. Matheris heals Jinxia a bit. Hooded figure in next cell says "bravo .. bravo".. Matheris: Thank you i think.  Guy has partial mix match, some plate, some studded leather, screwed up stuff.
 
 _Jaxxen_
+
 Jaxxen is curious... Calls the wait staff over to top up this groups glasses. Introduces himself as Gerico. And then says I couldnt help but overhear your discussions into the Casket Nails and the deposed king. The Casket Nails sounds like quite a strong group of people wouldnt you say?
 
 Gwinn: "Thanks for the drinks. ... its been an interesting time in the inner city"
 
 Jaxxen asks some more questsions
 
-1. "Why won't the city guards expel them?"
-
-Gwinn: "Most people around say its the most dangerous guild of nostr, an assassin guild, very dangerous, they have no mercy"
-
-2. "Have you ever seen any of them yourself?"
-
-Gwinn: "We thought we were going to be able to capture one but they killed him before hand. they killed their own person so they wouldnt be ratted out. They are called the casket nails. They all have a tatoo somewhere on their body of nails. like three nails somewhere. They killed the temporary king. "
-
-3. "Heard of any other groups like them?"
-
-Gwinn: "There are other guilds. I dont know there names. Thieves are thieves. Wish there were none but the city brings all sorts."
-
-4. "What brings you... to the Drunken Goblin Tavern?"
-
-Gwinn: "We like to get out and mingle a little bit. "
+- Jaxxen: Why won't the city guards expel them?
+  - Gwinn: Most people around say its the most dangerous guild of nostr, an assassin guild, very dangerous, they have no mercy
+- Jaxxen: Have you ever seen any of them yourself?
+  - Gwinn: We thought we were going to be able to capture one but they killed him before hand. they killed their own person so they wouldnt be ratted out. They are called the casket nails. They all have a tatoo somewhere on their body of nails. like three nails somewhere. They killed the temporary king. 
+- Jaxxen: Heard of any other groups like them?
+  - Gwinn: There are other guilds. I dont know there names. Thieves are thieves. Wish there were none but the city brings all sorts.
+- Jaxxen: What brings you... to the Drunken Goblin Tavern?
+  - Gwinn: We like to get out and mingle a little bit. 
 
 There's several pretty half elf girls in a seated circular booth. drinking fine fluted glasses. 
 
-Gwinn: We like to have a little fun here."
-
-5. "Where else would you hang out then?"
+  - Gwinn: We like to have a little fun here.
+- Jaxxen: Where else would you hang out then? 
 
 Jaxxen tells the stories of the spiders encountered. The girls and the well off guys are enthralled with the story. would be terrifying. I bet bards would tell tales of it.
 
@@ -490,15 +522,15 @@ Jinxia finds small hammer like a jewelers hammer, 3gp, 11sp. Ornate hammer. Kind
 Hooded robe guy stabs another dwarf. Bloodied and killed em both.
 
 - Matheris: What brings you to this tavern?
--- Hooded guy: To relax and unwind. Been trying to get to the second floor, dont know how. and i know theres' a third floor.
+  - Hooded guy: To relax and unwind. Been trying to get to the second floor, dont know how. and i know theres' a third floor.
 - Matheris: What do yu do for a living?
--- Hooded guy: nothin really. just a drifter.
+  - Hooded guy: nothin really. just a drifter.
 - Matheris: Fair enough, me too, traveler and seeker of tales
   
 They wish they could get out. Jinxia begins picking the lock. fails. Hooded character asks if he can try. Jinxia worried she'll be double crossed, but the man promises. Hooded guy gets it unlocked on his. Opens it. Starts to walk out and plans to walk out and leave them there. He smiles and comes back. He saw the keys somewhere. He cant find and tries to pick their lock and is successful. He asks Jinxia if she would be willing to sell her tools. Had his taken away earlier. Jinxia hesitates and says they were given to her by her mother. Hooded guy doesnt have enough to buy. Jinxia asks his name. He doesnt usually doesnt give it out. He says its Mercan. Asks where they could find him again if find some work or interesting situations.  He mentions a place down at the harbor. Theres a place down at the harbor. Help one of the the harbor masters.. do some work there. Look for common Little Red Dragon Inn can find me sometimes if im not here at the Drunken Goblin.
 
 - Matheris:  despite killin someone they let you back in eh? 
--- Mercan: yeah.. i dont think we'll ahve any trouble.
+  - Mercan: yeah.. i dont think we'll ahve any trouble.
 
 He takes his hooded robe off completely, throws to the side. I cant be in black robes i'll be picked off easily.  
 
@@ -588,11 +620,16 @@ Security tells the two guys to leave. Jinxia wants a drink
 
 Jaxxen says this is the problem with the Drunken Goblin Tavern. Get overflow of idiots causing trouble.
 
-Security Guy 1: 20
-Badguy 1: 11
-Badguy 2: 19
-Jaxxen:  6
-Jinxia: 23
+<details>
+  <summary>initiative rolls</summary>
+  <ul> 
+    <li>Jaxxen: 23</li>
+    <li>Security Guy 1: 20</li>
+    <li>Badguy 2: 19</li>
+    <li>Badguy 1: 11</li>
+    <li>Jinxia: 6</li>
+  </ul>
+</details>
 
 Security guy hits for 4 then hits the other guy for 9
 
@@ -650,6 +687,7 @@ The Dapper Dragon Inn
 Matheris pays for rooms
 
 Room arrangements
-	Matheris, Jinxia, Nathair
-	Jaxxen, Hereist, Ulysses
+
+- Room 1: Matheris, Jinxia, Nathair
+- Room 2: Jaxxen, Hereist, Ulysses
 
