@@ -12,7 +12,7 @@
     <li><a href="session_03.md">3. Entering Nostr</a></li>
     <li><a href="session_04.md">4. The Sewers, Drunken Goblin Tavern</a></li>
     <li><a href="session_05.md">5. The Night Owl</a></li>
-    <li><a href="session_06.md">6. The Old Building, and the Sewers</a></li>
+    <li><a href="session_06.md">6. The Old Building, the Sewers, and a Riddle</a></li>
     <li><a href="session_07.md">7. Bugbears, Goblins, and Hobgoblins Oh My!</a></li>
   </ul>
 </td>
