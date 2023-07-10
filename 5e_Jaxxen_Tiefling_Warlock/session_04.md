@@ -7,7 +7,7 @@
 - Jaxxen Tiefling Warlock 2
 - Nathair Dragonborn Paladin 1
 - Ulysses Halfling Monk 1
-- + NPC Hereist, Fighter 1
+- NPC Hereist, Fighter 1
 
 _unformatted rough notes follows_
 
