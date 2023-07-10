@@ -7,9 +7,9 @@
 - Ulysses / Halfling Monk 1
 - Edwin / Halfelf Druid 1
 - Nathair / Dragonborn Paladin 1
-- Hereist / Fighter 1
+- Hereist / Human Fighter 1
 
-## Day 12
+## Day 11 (afternoon)
 
 We are in the room we found up some stairs off of the sewers. Previously had solved a riddle to unlock a magical door.  There's a snake outside on the sewer side
 
@@ -84,6 +84,8 @@ Nathair looks at the hobgoblins and notices the leader with better armor had a k
 Someone goes back to the magical door and notices it has the same writing on the inside as the outside.
 
 We take a short rest. Matheris plays a song of rest to aid us in recovery. and Jaxxen and Nathair are headled to the max. Nathair shows us the key he found.  Its metal, like iron and kind of ornate.
+
+## Day 12
 
 ### Goblins and Hobgoblins
 
