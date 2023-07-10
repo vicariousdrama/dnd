@@ -6,6 +6,8 @@
 - Jaxxen Nage / Tiefling Warlock 2
 - Hereist / Fighter 1
 
+_unformatted rough notes follows_
+
 -----------------
 
 Both rooms are knocked on. 
