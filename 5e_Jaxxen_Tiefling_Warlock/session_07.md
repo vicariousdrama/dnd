@@ -9,7 +9,7 @@
 - Nathair / Dragonborn Paladin 1
 - Hereist / Fighter 1
 
-## Day ?
+## Day 12
 
 We are in the room we found up some stairs off of the sewers. Previously had solved a riddle to unlock a magical door.  There's a snake outside on the sewer side
 
