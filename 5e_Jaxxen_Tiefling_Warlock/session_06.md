@@ -20,6 +20,8 @@ We met Nathair and Ume when they come into the Night Owl Tavern.
 _back to Edwin_
 Edwin went to Drunkin Goblin Tavern looking for us. He was apparently giving up all kinds of info like our names, what we look like, and even paying off some folks in the process.  Talks of Matheris the bard, a rogue named Jinxia, a tiefling named Jaxxen, Ulysses the halfling monk, and Hereist the fighter. He meets someone at the tavern named Mer when mentioned a mule and horse. Says there are two stables, Malachi Stables and Duck and Cover.  Edwin checks the two locations, describing the party. Malachi Stables doesn't have em.  When Edwin and Mer get to Duck and Cover stables the stablemaster is reluctant to tell Edwin anything as he doesn't recognize him and he doesnt know the code word. Mer leaves and heads back to the Drunken Goblin Tavern and Edwin heads across the street to the Green Dragon Tavern where beautiful music is playing
 
+## The Old Building
+
 _main group_
 Jaxxen and Matheris talk about the building across Gray Street that is boarded up. They leave and head through the alley to the backside and see an old man in rags. Matheris gives him some coin and Ulysses tells him he has to turn his life around. Tries to tell him to become a monk and gives him a copper. Jaxxen asks if he knows anything of the building, but hes not forthcoming. Matheris talks about outreach to the poor. With the beggar helped out with some coin he wants to go. A building behind this one is tall and looking up we see a curtain move. There are two metal doors on this old bujilding with a keyhole. Some debris and rubbish and a landing on the second floor. Ulysses climbs up debris to reach the second floor. He sees another landing further up. THe windows are all boarded up. Ulysses yells down asking if anyone can pick locks. Nathair the Dragonborn tries using a crowbar on the door to open but its bending. Jinxia and Jaxxen are climbing up. Jinxia tries picking the door but fails. Nathair trying more with the crowbard, bedning part of door and not really budging. He runs at the door to no effect. Jinxia tries lock picking door on the second floor landing and fails. Jaxxen goes up higher trying to use his climbers kit. Goes up to the third floor where there are no doors. Just more boarded windows. Matheris knocks on the door at the ground floor, and there is no answer.
 
@@ -40,4 +42,39 @@ Edwin looks over the rooftop, sees people running from an alley. Sees city guard
 
 _main group_
 Guards pushing into the building. Demaning people "put their weapons down". Jaxxen says we should go down the stairs. There is also stairs leading up.
+
+<details>
+  <summary>initiative rolls</summary>
+  <ul>
+    <li>Jaxxen: 18</li>
+    <li>Jinxia: 14</li>
+    <li>Hereist: 13</li>
+    <li>Matheris: 11</li>
+    <li>Nathair: 8</li>
+  </ul>
+</details>
+
+Jaxxen strikes with his dagger and spins away from them. Jinxia misses and moves towards the stairs. Hereist drops his sword. Nathair tries to swing at the guard on way to stairs and hits. Guards swing for Nathair and hit. More guards enter. One swings for Hereist and misses. Matheris says "Step back or face my wraith of nails" attempting to potray himself as part of Casket Nails group. While very performative, its not convincing. 
+
+Jaxxen fails a Chill Touch attempt but gets to the door. It needs to be opened. Hereist hits a guard. Guards attack and one goes for Matheris. Jinxia goes to see the door. Hereist evades the guards and is running. Matheris slams his fist to the ground casting Thunderwave. Not much damage but does push some guards back. Lots of crates fall.
+
+_back to Edwin_
+Edwin hears all the commotion. He sees windows blow out the second floor window and guards go back on horse to get away and get help.
+
+_main group_
+Guards are under boxes. Jinxia trying to pick the door lock but fails. Nathair is trying the door with a crowbar and the deadbolt breaks. Which of strong order blows in. He pulls the door open. Jaxxen hands a potion to Hereist who recovers some health.  Matheris drinks a healing potion. Hereist drinks a potion and is back to full health. Nathair rams a crowbar into jam the door. We see the sewer acquaduct below and 2 canoe boats. Jaxxen uses Thaumaturgy to try to cause the door to slam shut. The door is holding with everyone pushing. 
+
+Ulysses is outside the building and saw a guard leave in a hurrgy on Gray Street. He is out in the alley.
+
+_back to Edwin_
+Edwin spots Ulysses and climbs down to head to him.  He groups with Ulysses
+
+_Edwin and Ulysses_
+Ulysses tells Edwin that there's guards back here and some trouble. See metal door prybarred open and guards shouting and bunch of crates.  Sees the guards trying to open the door to the basement. Edwin casts Create Bonfire on the guards. Several are burned and one died in the event while others are trying to get out of the stairwell of fire.  Edwin runs out of the building towards horses. He mounts a horse and rushes off heading out alley toward Bardhome Boulevard. The three guards give chase out of the building after him, mounting their own horses.
+
+_main group_
+Several in teh party hear Ulysses outside and guards that were screaming and running off.  They want to save Ulysses.  We pull open the door and see fire and a heavily damaged guard. The Guard hits Nathair. Jaxxen misses with Chill Touch. Jinxia thrusts rapier killing the guard quickly. We see some people outside looking at us. Matheris tries to persuade the commoners to help us and rise up against the corruption of the city.
+
+_Edwin and Ulysses_
+Edwin has three guards on his tail. He passes on heading to Drunken Goblin and turns down Dagger Boulevard. Sees a manhole cover. He casts Entangle behind him about 90 feet. covering a 20 foot square. The gaurds on horses get through unscathed.  Edwin tries using his quarterstaff as leverage but its too big for the hole. He tries with his might to lift the cover by hand and succeeds. A guard is close enough to attack but misses on the attempt.  Edwin jumps into the manhole and falls into a sploosh of deep water. The water is moving swiftly.
 
