@@ -121,4 +121,27 @@ _rejoined_
 
 Jaxxen takes rope out of pack and readies to throw it.  Edwin tries again and pulls up onto the steps. Sees the two canoes at high speed. He goes on staircase upwards to the light. Jinxia has a grappling hook. Hereist has one and throws it and it latches on.  Tells Edwin to tie it to something solid quickly. Jinxia throws hers and it hits the stairway but not a good spot. Edwin quickly grabs it and tries to tie it. The canoes are tied and rope comes taught. We're all thrown out of the boats but secured to ropes around us.  The canoes continue down the waterway and disappear.  We all pull on the rope and gradually work our way up over time.  We climb the stairs and see a door with a keyhole.
 
-Jaxxen is concerned about the light here. Its lit, who lit it? Sees its 3 inches wide and is halfway burned down. Something magical and permanent, encased in glass affixed to the wall with metal.  Very quietly we try to open the door. Edwin tries the handle. Its locked. Jinxia looks for traps. Doesn't see any. Attempts to pick the lock and triggers a trap taking some damage.
+Jaxxen is concerned about the light here. Its lit, who lit it? Sees its 3 inches wide and is halfway burned down. Something magical and permanent, encased in glass affixed to the wall with metal.  Very quietly we try to open the door. Edwin tries the handle. Its locked. Jinxia looks for traps. Doesn't see any. Attempts to pick the lock and triggers a trap taking some damage.  Edwin helps Jaxxen with Guidance. Jaxxen attempts to pick the lock but fails but there's no more spikes.  Jinxia picks the lock!
+
+Jaxxen calls for room to open the door and pulls on it. Sees a lot fo oil applied to hinges. The inside is dark. We see in the hallway. With teh candle encased in glass its like a small sconce firmly attached to wall. Hereist uses small candle and Jaxxen will cast Thaumaturgy periodically to brighten the area. Three people using candle and it burns twice as quickly with the Thaumaturgy effect.  We go in. Its ground stone an sand on the ground. THe walls are cut stone. A 20 foot hallway. Middle of the hallway has a door and stairs going up. Matheris casts Healing Word on Jinxia.
+
+Edwin is at the door checking it for traps. Doesnt think it has any. Jinxia sees writing on the door. Matheris sees it is written in undercommon.  He translates what he reads
+
+> Four keys you need,
+> From named numbers above,
+> Forgotten Knowledge you should know
+> Patterns existed time of old,
+> Knock all four correctly so you can go.
+>
+> Fail to match, your life is clutch.
+
+We see a rectnagular space that is blank above and below the writing. The ceiling has stone similar to the walls. Matheris translates the puzzle and Jaxxen makes a copy to paper kept in his waterproof case.  At the other door up the top of the steps, Jinxia can't pick this lock. Its super tough. Try over and over multiple people and just can't pick it.
+
+We hear a splash. Matheris checks it and sees a large snake like thing on the stairway. We have crossbows ready and decide to close the door with teh snake outside.  We hear a hiss outside.
+
+Jinxia continues trying the lock on teh door and is really good but the lock resists her
+
+We consider what the meaning of the riddle could be.  1234? 1117 from the street above? Keys related to music? A number system like binary? Matheris casts Identify on the door. Just discovers that it is indeed magical, but doesnt know what spell cast it.  
+
+Matheris will do corner to corner starting with top left and then clockwise.  He knocks 1, and see a number 1 light up in gold like magic.  When he knocks 2, the number goes away.   Wait briefly, and then try knocking 1, then 1, and it stays lit with a second number. He follows that with another 1 knock and then 7 knocks in a row. The answer to the riddle is 1117.  There is some whirring and the door unlocks. It is able to be opened. Its dark. We har a sound like a low dragon or something. Sounds of some beast stepping around.
+
