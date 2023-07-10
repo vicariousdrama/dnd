@@ -6,9 +6,10 @@
 - Jaxxen Nage / Tiefling Warlock 2
 - Ulysses / Halfling Monk 1
 - Edwin / Halfelf Druid 1
-- Ume?
 - Nathair / Dragonborn Paladin 1
-- Hereist / Fighter 1
+- Hereist / Human Fighter 1
+- Ume?
+
 
 ## Day ?
 
@@ -131,13 +132,15 @@ Jaxxen calls for room to open the door and pulls on it. Sees a lot fo oil applie
 
 Edwin is at the door checking it for traps. Doesnt think it has any. Jinxia sees writing on the door. Matheris sees it is written in undercommon.  He translates what he reads
 
-> Four keys you need,
-> From named numbers above,
-> Forgotten Knowledge you should know
-> Patterns existed time of old,
-> Knock all four correctly so you can go.
->
-> Fail to match, your life is clutch.
+```
+Four keys you need,
+From named numbers above,
+Forgotten Knowledge you should know
+Patterns existed time of old,
+Knock all four correctly so you can go.
+
+Fail to match, your life is clutch.
+```
 
 We see a rectnagular space that is blank above and below the writing. The ceiling has stone similar to the walls. Matheris translates the puzzle and Jaxxen makes a copy to paper kept in his waterproof case.  At the other door up the top of the steps, Jinxia can't pick this lock. Its super tough. Try over and over multiple people and just can't pick it.
 
