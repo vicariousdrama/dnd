@@ -6,7 +6,7 @@
   <p>Initial Character Sheet: <a href="5e_Jaxxen_Tiefling_Warlock.pdf">Jaxxen, Warlock level 1</a></p>
 </td>
 <td colspan=2>
-  <p>Current Character Sheet: <a href="5e_Jaxxen_Tiefling_Warlock_7.pdf">Jaxxen, Warlock level 3</a></p>
+  <p>Current Character Sheet: <a href="5e_Jaxxen_Tiefling_Warlock_8.pdf">Jaxxen, Warlock level 3</a></p>
 </td>
 </tr>
 <tr>
@@ -48,5 +48,10 @@
   <td><a href="session_07.md">7. Bugbears, Goblins, and Hobgoblins Oh My!</a></td>
   <td>2</td>
   <td><a href="5e_Jaxxen_Tiefling_Warlock_7.pdf">5e_Jaxxen_Tiefling_Warlock_7.pdf (level up at end)</a></td>
+</tr>
+<tr>
+  <td><a href="session_08.md">8. The Bookstore and Back Down to Goblintown</a></td>
+  <td>3</td>
+  <td><a href="5e_Jaxxen_Tiefling_Warlock_8.pdf">5e_Jaxxen_Tiefling_Warlock_8.pdf</a></td>
 </tr>
 </table>
