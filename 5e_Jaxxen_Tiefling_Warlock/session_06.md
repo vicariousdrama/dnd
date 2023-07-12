@@ -1,14 +1,13 @@
 # Session 6 - The Old Building, the Sewers, and a Riddle
 
 20230707 - 20230708
-- Matheris / Halfelf Bard 2
-- Jinxia / Halfling Rogue 2
+- Matheris Corvein / Halfelf Bard 2
+- Jinxia Thorwhisper / Halfling Rogue 2
 - Jaxxen Nage / Tiefling Warlock 2
 - Ulysses / Halfling Monk 1
-- Edwin / Halfelf Druid 1
+- Edwin / Halfelf Druid 1 (fka Ume)
 - Nathair / Dragonborn Paladin 1
 - Hereist / Human Fighter 1
-- Ume?
 
 
 ## Day 11
@@ -17,7 +16,7 @@ _main group_
 
 Jaxxen is interested in what he previously learned from the dark elf at the Night Owl about the old building across the street. Supposedly has access to the sewers in the basement with some small boats. And next to that is Zorch, whatever that means.
 
-We met Nathair and Ume when they come into the Night Owl Tavern.
+We met Nathair and Ulysses when they come into the Night Owl Tavern.
 
 _back to Edwin_
 
