@@ -30,5 +30,5 @@ Ingrid seems a little impressed by the fancy words and tells the group that if w
 
 Matheris asks if she's seen combat before and she responds that she and her hammer have probably seen much more then all of us put together and her hammer has never failed her. Shes got the scars to prove it.  Jaxxen likes the sound of something that never fails.  Matheris offers to buy lunch.  Jinxia purchases the healing potion for 55gp. Ingrid considers getting more. Matheris thinks we need more and he also pulls out another potion he found on our adventures. Ingrid looks at it, swirling it around. She thinkgs its stronger than the church has been making typically.  Ingrid convinces the clerk to sell a few more potions to the party. Hereist and Jaxxen both buy one.
 
-We leave with Ingrid joining us and head to her favorite tavern nearby. A place called Seimei
+We leave with Ingrid joining us and head to her favorite tavern nearby. A place called Séimí's. Inside there is a bard playing a nice peaceful song on a lute. She orders 2 ales, the board stew with meat and potatoes. Edwin wants to try the boar stew and Jaxxen has some as well.  Ingrid explains to us that she has seen a lot of battle in the past as a soldier. And for a time she became a blacksmith but it just wasn't as fulfilling. So her calling now is in the service of Tyr fighting for justice.
 
