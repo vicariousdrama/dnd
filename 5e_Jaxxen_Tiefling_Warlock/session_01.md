@@ -1,8 +1,8 @@
 # Session 1 - Seeking the Tower of Umar
 
 20230619 - 20230620
-- Matheris / Halfelf Bard 1
-- Jinxia / Halfling Rogue 1
+- Matheris Corvein / Halfelf Bard 1
+- Jinxia Thornwhisper / Halfling Rogue 1
 - Jaxxen Nage / Tiefling Warlock 1
 
 ## Day 1
