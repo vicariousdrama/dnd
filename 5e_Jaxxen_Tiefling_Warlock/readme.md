@@ -55,3 +55,11 @@
   <td><a href="5e_Jaxxen_Tiefling_Warlock_8.pdf">5e_Jaxxen_Tiefling_Warlock_8.pdf</a></td>
 </tr>
 </table>
+
+Some loose ends we could look into
+
+- Telina and Bren at The Bottomless Goblet, and Bren work at Pankratz Jewelers
+- Why the dark elf tell about the sewer access beneath the old building
+- 2nd and 3rd floor of the Drunken Goblin Tavern, and political intrigue.
+- The Tower of High Sorcery
+- The hooded guy in the cells where Matheris and Jinxia were at in DGT, mentioned he can be found at the harbor or Little Red Dragon Inn
