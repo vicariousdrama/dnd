@@ -1,8 +1,8 @@
 # Session 5 - The Night Owl
 
 20230703-20230704
-- Matheris / Halfelf Bard 2
-- Jinxia / Halfling Rogue 2
+- Matheris Corvein / Halfelf Bard 2
+- Jinxia Thornwhisper / Halfling Rogue 2
 - Jaxxen Nage / Tiefling Warlock 2
 - Hereist / Human Fighter 1
 
