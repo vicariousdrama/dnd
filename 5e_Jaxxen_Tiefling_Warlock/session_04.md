@@ -2,12 +2,12 @@
 
 20230630 - 20230701
 
-- Matheris Halfelf Bard 2
-- Jinxia Halfling Rogue 2
-- Jaxxen Tiefling Warlock 2
-- Nathair Dragonborn Paladin 1
-- Ulysses Halfling Monk 1
-- NPC Hereist, Human Fighter 1
+- Matheris Corvein / Halfelf Bard 2
+- Jinxia Thornwhisper / Halfling Rogue 2
+- Jaxxen Nage / Tiefling Warlock 2
+- Nathair / Dragonborn Paladin 1
+- Ulysses / Halfling Monk 1
+- NPC Hereist / Human Fighter 1
 
 ## Day 8 (afternoon/evening)
 
