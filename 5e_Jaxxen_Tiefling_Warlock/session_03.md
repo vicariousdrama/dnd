@@ -1,8 +1,8 @@
 # Session 3 - Entering Nostr
 
 20230626 - 20230627
-- Matheris / Halfelf Bard 2
-- Jinxia / Halfling Rogue 2
+- Matheris Corvein / Halfelf Bard 2
+- Jinxia Thornwhisper / Halfling Rogue 2
 - Jaxxen Nage / Tiefling Warlock 2
 
 ## Day 8
