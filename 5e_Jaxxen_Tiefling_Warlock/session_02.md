@@ -1,8 +1,8 @@
 # Session 2 - Joining Other Knowledge Seekers
 
 20230623 - 20230624
-- Matheris / Halfelf Bard 1
-- Jinxia / Halfling Rogue 1
+- Matheris Corvein / Halfelf Bard 1
+- Jinxia Thornwhisper / Halfling Rogue 1
 - Jaxxen Nage / Tiefling Warlock 1
 - Ume Livinwood / Druid 1
 - Ulysses / Halfling Monk 1
