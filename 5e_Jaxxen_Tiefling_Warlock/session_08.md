@@ -41,3 +41,44 @@ Jaxxen looks around to see if noticed anyone shady. Edwin looks for wanted poste
 Inside the library, Ingrid finds a section that is roped off with an "Off Limits" sign. Enquires about it and the staff there tell her that its just because the books haven't been reviewed and priced yet. Ingrid asks for books on the history of the city and is referred to a section dedicated to it. Edwin heads inside looking around and asks if they have any books on the sewers. The staff member thinks thats odd but does find a book, brings it but its just the cover as the insides have been ripped out. The staff member then shows it to anotehr and they discuss it. Matheris asks about political scandals and is referred to the government buildings for such records.  Hereist head into the library and notices the dark elf and guy in chain mail that they talked to before at The Owl Tavern. He returns and informs Jaxxen. Jaxxen considers waiting outside and following them when they depart.  Matheris recognized the dark elf as well and heads over to him. Introduces himself and goes on a lengthy conversation giving up information about the party, and eventually exchanging the golden statue he picked up in the area beneath the cemetary in exchange for information on how to get through the door that has no handle. The dark elf tells him and that it will also get more dangerous.  Meanwhhile, Edwin looks for the back door, finds two. He looks for the man that went in and must be here amongst the people. He finds a bookshelf that looks somewhat different from others, especially after examining the floor seeing some marks rubbing. He finds Ingrid and describes it to her. Ingrid thinks it could open a passage. Edwin considers we could do when store is closed. He feels for a draft but there is none. Ingrid and Edwin investigate. Jinxia hiding behing trash outside the building. Edwin opens door and calls her and she hears him. She hadn't even checked the door knobs to see if unlocked. She comes inside to look at the bookshelves.
 
 Jaxxen and Hereist are still at the cemetary and hear a sound like stone or footsteps and movement at a bush. They check the perimeter to see if there is a way that they could get in, each going in opposite directions around and meeting on the opposite side.
+
+Matheris continues talking to the dark elf and finds that he knows of Zeldar. Is not friends with him.
+
+Jaxxen and Hereist decide to go to the book store. They find the rest of the group and relay what they noticed of a bush moving. Edwin finds Matheris and tells him of the bookshelf. The man he was following earlier is nowhere to be found.  They start pulling on books and it clicks. Jaxxen notices and sees the book named "Ocean Waves". A staff person is ringing a bell indicating the store is closing in 15 minutes. We get the bookshelf open and we are in a 10x10 space with the bookshelf closed back up. Its at the corner of the book store where two of the walls are exterior stone and the other two walls of this enclosure are the back of the bookshelves. Looking on floor see a rug with tassles. Edwin pulls it and sees a wooden door underneath.  We hear the library workers lock up. Jinxia checks the wooden door for traps and identifies a needle trap with a keyhole and recessed handle. Jaxxen pulls out a dagger and suggests just triggering it t o disable. Matheris uses his longsword instead.   After opening the wooden door, Ingrid leads with Hereist down the steps to a metal door.
+
+### Going Down to Goblin Town
+
+Matheris triggers a trap on this door and many arrows shoot out injuring Jinxia while others evade, dodging or arrows hitting shields. Matheris heals Jinxia.  The door wont open. Its locked. With the assistance of Guidance and bardic inspiration, Jinxia manages to pick the lock. Opening the door an arrow flies and strikes her from the other side. Edwin hears goblins shouting "Intruders!" and hears running towards us. Jaxxen slams door shut with Thaumaturgy. We back up and take positions. Door knob starts turning. Matheris wants us to get behind him. Jaxxen gets up the stairs with Edwin. Ingrid asks why. Matheris casts Thunderwave and the door slames open hard, arrows come straight for Matheris. But the shock of thunderwave did a lot of damage.  Edwin casts Create Bofire on them. Jaxxen descends steps to get a clear shot and fires his crossbow. Ingrid casts Toll the Dead on one doing lots of necrotic damage.  Jinxia stabbed one with a rapier and retreated.
+
+<details>
+  <summary>initiative rolls</summary>
+  <ul>
+    <li>Jaxxen: 17</li>
+    <li>Jinxia: 9</li>
+    <li>Matheris: 8</li>
+    <li>Ingrid: 6</li>
+    <li>Edwin: 6</li>
+  </ul>
+</details>
+
+Hobgoblins attack Matheris. Jaxxen hits with his crossbow killing one. A Hobgoblin attacks Ingrid and hits. Ingrid moves past to get into hamer range and hits one killing it swiftly.  We can see the door further down is the riddle door.  
+
+The cryptkeeper Zeldar is a powerful dark elf spellcaster. It's night time and Zeldar has fortified things.
+
+Matheris casts healing word on Jinxia. Edwin casts cure wounds on Matheris.  Jaxxen casts Armor of Agathys on himself. Jinxia climbs up a wall. Hereist volunteers to be in front and Ingrid follows behind with hammer ready.
+
+Matheris goes to riddle door and it is the same words as before written in undercommon.  Hereist looks to Matheris and he knocks 1, 1, 1, 7. The door opens.  Matheris casts dancing lights
+
+<details>
+  <summary>initiative rolls</summary>
+  <ul>
+    <li>Edwin: 20</li>
+    <li>Jaxxen: 19</li>
+    <li>Jinxia: 18</li>
+    <li>Hereist: 17</li>
+    <li>Ingrid: 11</li>
+    <li>Matheris: 4</li>
+  </ul>
+</details>
+
+There are a number of things on other side of door and 2 arrows come flying in hitting Hereist and Matheris. Jinxia sees a shit ton of goblins, estimates like 25 all with short bows. She runs, hits one, and runs back. Another arrow comes at Hereist but misses, along with another. One misses and strikes a fellow goblin instead killing it. Jaxxen misses with his crossbow. Edwin casts Fog Cloud on the goblin group and runs back. Arrows fire en masse from the goblins. Hereist is hit. Hereist runs into the edge of the Fog Cloud swinging and hits two of them killing one by cutting it in half. Ingrid goes to the edge of the Fog Cloud and uses her war hammer on the goblins she finds smashing ones head in. With a bonus attack hits another killing it.  More arrows come firing from the Fog Cloud with disadvantage. Only one hits Jaxxen while several others miss everyone.
