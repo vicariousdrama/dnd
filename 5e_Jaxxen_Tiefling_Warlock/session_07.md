@@ -1,8 +1,8 @@
 # Session 7 - Bugbears, Goblins and Hobgoblins, Oh My!
 
 20230708 - 20230709
-- Matheris / Halfelf Bard 2
-- Jinxia / Halfling Rogue 2
+- Matheris Corvein / Halfelf Bard 2
+- Jinxia Thornwhisper / Halfling Rogue 2
 - Jaxxen Nage / Tiefling Warlock 2
 - Ulysses / Halfling Monk 1
 - Edwin / Halfelf Druid 1
