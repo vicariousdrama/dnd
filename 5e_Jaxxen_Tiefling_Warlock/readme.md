@@ -6,7 +6,7 @@
   <p>Initial Character Sheet: <a href="5e_Jaxxen_Tiefling_Warlock.pdf">Jaxxen, Warlock level 1</a></p>
 </td>
 <td colspan=2>
-  <p>Current Character Sheet: <a href="5e_Jaxxen_Tiefling_Warlock_8.pdf">Jaxxen, Warlock level 3</a></p>
+  <p>Current Character Sheet: <a href="5e_Jaxxen_Tiefling_Warlock_Current.pdf">Jaxxen, Warlock level 3</a></p>
 </td>
 </tr>
 <tr>
@@ -54,6 +54,17 @@
   <td>3</td>
   <td><a href="5e_Jaxxen_Tiefling_Warlock_8.pdf">5e_Jaxxen_Tiefling_Warlock_8.pdf</a></td>
 </tr>
+<tr>
+  <td><a href="session_09.md">9. Freeing Prisoners, and Rallying them to Fight!</a></td>
+  <td>3</td>
+  <td><a href="5e_Jaxxen_Tiefling_Warlock_9.pdf">5e_Jaxxen_Tiefling_Warlock_9.pdf</a></td>
+</tr>
+<tr>
+  <td><a href="session_10.md">10. Rescuing a Drow, and Face to Face with BBEG</a></td>
+  <td>3</td>
+  <td><a href="5e_Jaxxen_Tiefling_Warlock_10.pdf">5e_Jaxxen_Tiefling_Warlock_10.pdf</a></td>
+</tr>
+
 </table>
 
 Some loose ends we could look into
