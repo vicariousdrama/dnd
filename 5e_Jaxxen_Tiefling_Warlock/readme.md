@@ -64,6 +64,11 @@
   <td>3</td>
   <td><a href="5e_Jaxxen_Tiefling_Warlock_10.pdf">5e_Jaxxen_Tiefling_Warlock_10.pdf</a></td>
 </tr>
+<tr>
+  <td><a href="session_11.md">11. Matheris Picks a Fight with the Guards</a></td>
+  <td>3</td>
+  <td><a href="5e_Jaxxen_Tiefling_Warlock_11.pdf">5e_Jaxxen_Tiefling_Warlock_11.pdf (level up at end)</a></td>
+</tr>
 
 </table>
 
