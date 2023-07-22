@@ -76,7 +76,11 @@ Jinxia was brought to jail, but would resist if ever given the chance and is scr
 
 Guards from from the barracks to Owl Bear to interrogate Ulysses. They ask what happend and they are picking up Matheris.  He makes up a story convincing that there was a madman casting spells and he doesnt know him and was just trying to be a hero or something. Some guards help their comrade to get healing at nearby church while others haul Matheris body to the jail cell.  At this point, Matheris has passed one death save but also failed one.
 
-Jaxxen in back alleys still and watches where they take Matheris. Matheris now at 2 death fails.  They put Matheris body in the cell with Jinxia. Jinxia continues screaming at the guards to try to be intolerable.  There are three guards in the jail and Edwin is st ill in rat form hiding. The cell is fully visible to the guards. Edwin untransforms in front of the cell and casts cure wounds on Matheris healing him for 6. Guards demand him to drop his weapons now. Edwin holds up his arms. They want him to throw his weapons and everything to the door. He complies.
+Jaxxen in back alleys still and watches where they take Matheris. Matheris now at 2 death fails.  They put Matheris body in the cell with Jinxia. Jinxia continues screaming at the guards to try to be intolerable.  There are three guards in the jail and Edwin is st ill in rat form hiding. The cell is fully visible to the guards.
+
+## The Escape
+
+Edwin untransforms in front of the cell and casts cure wounds on Matheris healing him for 6. Guards demand him to drop his weapons now. Edwin holds up his arms. They want him to throw his weapons and everything to the door. He complies.
 
 Matheris takes the opportunity to cast Ice Knife on one of the guards. It hits and explodes. Guard fails save checks and takes more cold damage. Some guards die and there are two guards left. THey run behind the counter and get their long bows and take cover. Jinxia rolls behind Matheris for cover. Edwin casts Create Bonfire on the guards behind the counter. Guards fail to get away and burn a bit. They move and drop their bows and pull swords out. 
 
@@ -106,6 +110,8 @@ Jaxxen gets to the crowbar and decides to have a quick meal. Talks to the staff 
 
 The other group heads into the lair under the mosoleum. Edwins hawk is with him.
 
+## Gathering Supplies and Recovery
+
 Jaxxen checks the stable master at stables and mounts. Sees Serafina and other mounts are there. Goes to the general store and buys 10 oil flasks.  Then heads to temple and to see about healing potions.
 
 Meanwhile, Edwin takes a short rest and Sonia wants to stay back. Matheris and Jinxia want to head back up top to the stables. Jinxia is considering going back to the Jail to try to recover more of her stuff. Guards got full fire out at the Jail and firewood place. Guards are all around the jail area.  Hereist is with Matheris and Sonia wants to stays in base. Hereist asks Sonia if she can loan her tools so they can unlock the gates and she joins. Its about half an hour before it seems safe for them to exit the cemetary without being spotted. While Sonia fails to pick the lock, she lends her tools to Jinxia who succeeds. They dont lock the cemetary back up, instead putting chain over the lock to give appearance to a casual observer that its chained shut. 
@@ -114,10 +120,36 @@ The sun is starting to go down. The group moves through alley ways and see movem
 
 Jaxxen at the temple asks about potions and they have 3 available for 50 gold each. Jaxxen pulls out 160 gold pieces and thanks them. In appreciation, they say he can buy another. So he gets 4 total before returning to the stables.
 
+## Jinxia Wants Her Stuff!!
+
 When Jaxxen sees Jinxia he says he can give her his thieves tools. Matheris gives her his bag of holding to carry stuff. Jaxxen says he can cast invisibility on Jinxia but its the last spell slot hes got. Will prep and do near/behind the shoe cobbler across from the jail for maximum time.  
 
 Meanwhile, Edwin leaves the lair and at the cemetary, locking up and transforms into a cat shape to get through the wrought iron gate. He heads to jail to try to collect Jinxias stuff to surprise her.
 
 Sonia positions herself on Dagger Boulevard to act as a distraction playing music.  She plays quite well.  
 
-Jinxia sees guards outside and on merchants way and makes her way across unseen. When the door opens, she slips in. She sees 3 guards inside and goes to where her equipment was.  She successfully gets past the three guards and one of them is going through her stuff doing an inventory. He's laying the remaining items out on a a linen cloth to itemize them.  Edwin hops on the guards lap or back to try to distract him.
+Jinxia sees guards outside and on merchants way and makes her way across unseen. When the door opens, she slips in. She sees 3 guards inside and goes to where her equipment was.  She successfully gets past the three guards and one of them is going through her stuff doing an inventory. He's laying the remaining items out on a a linen cloth to itemize them.  Edwin hops on the guards lap or back to try to distract him.  Jinxia grabs the amulet necklace, then her thieves tools and a short sword. As she does so, they disappear from view.  Edwin bites the gaurd and runs in the opposite direction. Guard wonders where the sword went. Looks at items and is shaking his head.  He decides to walk outside to get fresh air.  Jinxia grabs healing potion and then caltrops and 4 more daggers, putting them all in the bag of holding. Then some ball bearings. She sneaks past a guard to leave successfully.
+
+Jaxxen motions to Sonia that we can go and we all metup and goto the cemetary.
+
+Then the worst happened. We hear a tearing sound. The short sword is cutting through the pouch along with daggers and caltrops. The bag and its contents are destroyed.  It was all for naught.
+
+## Back to the Lair
+
+We get down below and are in the upper 40x40 room.  Only Matheris can get us into the lower room. We are in the barracks and hear something from the magic door area. We hear a knock, another, and another, then 7 in a row. The magical door gear locks whir and the door begins to open. Jaxxen prepares crossbow and stands behind pillar.  Matheris says "If you are not Garth, you are dead". Garth announces his presence.
+
+We see Cobalt (not Kobolt), a large human fighter sword drawn. Garth tells him to lower weapons and he comes in. Garth says he came from a shithold. Robe burned and shredded in some places. Fire damage. Cobalt has some dings and dnts and armor has bad spots. Another part of the sewers. Kobolt closes the door behind him.  Hereist comes ou in the open and Jinxia remains hidden. Jaxxen stays behind pillar listening. Garther and Cobalt follows Matheris and he gives a tour of the lower section the blacksmith and jail area.  Garth wants to see more of the lowest levels. Hes looking for a passageway. A way to get deep underground. Matheris asks how hed feel about working with us in teh future. He seems up for it. 
+
+Matheris has a conversation for a bit on this and some guilds. Garth knows of the one named Kalara. Matheris says she stold his chest and riding gear and supplies. Garth mentions shes a halfling female with the Prowlers Guild. Everyone makes their presence known. Cobalt heads down to the lowest level. Jinxia gets 16 arrows from the armor. Matheris lights the room with Dancing Lights.
+
+Garth asks about the different rooms and points out the barracks on left, and the one of the right with the water weird. We dont know how to dispatch the water weird. Edwin has rings for swimming and water breathing but not attuned yet.  Garth asks how deep the water is. Dont know. its deep. No other rooms go down. Just this one.  We open the door to the room for him and the water is real still and murky.
+
+Garth asks if anyone speaks primordial. Matheris indicates he has a ring that could help, but not yet attuned. Garther recommends trying it on and try talking to the water weird.  Garth wants him to tell the weird that he needs passage. Matheris does an arcana check to try to talk to the weird. Asks him to allow the dark elf to have passage? Ring tingles a little. Feel magical presence but nothing yet happened in the room. Garth requests again and Matheris complies. Garth slowly walks in room spell at the ready. Tells Cobalt to stand back. He walks to waters edge and teh water moves to the left side of where the drow elf is at. Garth gets on his knees, puts face in teh water looking down and comes back up. He stands and comes back stating "I've found it". Theres a passage below.
+
+Matheris speaking primordial telling it we are friends. Garth thanks us and neesd to go down. Knows that Zeldar was down there.
+
+**(Player for Jaxxen logged out)**
+
+## Aftermath
+
+After Jaxxen left, its understood that others in the group looked more in the library and may have found some books about the paintings and their locations.
