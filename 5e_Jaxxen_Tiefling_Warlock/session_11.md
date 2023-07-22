@@ -72,4 +72,52 @@ Jaxxen followed in back alleys and is across the street from the Owl Bear lookin
 
 Back in the Owl Bear Tavern, Ulysses takes the alcohol bottle and tries to throw in direction of the guards. It gets on stuff and ligths up. The whole place is gonna burtn down. He keeps battling but misses with his staff. Hits unarmed for 3 and misses with other before jumping over bar. Guard swings over teh bar and misses. Ulysses attacks with staff and hits for 7 and unarmed attack breaking the gaurds ankle.  I think Ulysses killed one of the guards. More guards rushing in and they see half elf and fellow guards. One guard is on fire and one was pulled out. One has hand on monk Ulysses wants to ask him questions. Townspople coming with buckets of water to try to put the fire out.
 
-Jinxia was brought to jail, but would resist if ever given the chance.  Edwin is seeing all this and he decides to turn into a rat and follow her into the jail.  The guards hang the keys to the cell on teh wall. Guards from from the barracks to Owl Bear to interrogate Ulysses
+Jinxia was brought to jail, but would resist if ever given the chance and is screaming as much as possible.  They take all her equipment from her to examine it at the counter. Edwin is seeing all this and he decides to turn into a rat and follow her into the jail.  The guards hang the keys to the cell on teh wall. 
+
+Guards from from the barracks to Owl Bear to interrogate Ulysses. They ask what happend and they are picking up Matheris.  He makes up a story convincing that there was a madman casting spells and he doesnt know him and was just trying to be a hero or something. Some guards help their comrade to get healing at nearby church while others haul Matheris body to the jail cell.  At this point, Matheris has passed one death save but also failed one.
+
+Jaxxen in back alleys still and watches where they take Matheris. Matheris now at 2 death fails.  They put Matheris body in the cell with Jinxia. Jinxia continues screaming at the guards to try to be intolerable.  There are three guards in the jail and Edwin is st ill in rat form hiding. The cell is fully visible to the guards. Edwin untransforms in front of the cell and casts cure wounds on Matheris healing him for 6. Guards demand him to drop his weapons now. Edwin holds up his arms. They want him to throw his weapons and everything to the door. He complies.
+
+Matheris takes the opportunity to cast Ice Knife on one of the guards. It hits and explodes. Guard fails save checks and takes more cold damage. Some guards die and there are two guards left. THey run behind the counter and get their long bows and take cover. Jinxia rolls behind Matheris for cover. Edwin casts Create Bonfire on the guards behind the counter. Guards fail to get away and burn a bit. They move and drop their bows and pull swords out. 
+
+Ingrin sees Ulysses hurting and uses Lay on Hands on him to heal for 7. Nathair with her. Jaxxen suggests can make someone invisible to sneak into the jail to see about Matheris and Jinxia, unaware that Edwin is in there.  Ulysses decides he needs a break and heads to Seimi's tavern
+
+**(Player for Ulysses logs out)**
+
+The group outside discusses plan. Will make someone invisible and they wear boots of elvinkind for more silence. Group at Fizer cemetary sees guards rush out of jail. Jaxxen casts invisibility on Sonia the Ranger and sends message as she enters. Hereist and Dragonborn are together across the street. Ranger heads into jail and sees Matheris Jinxia and Edwin in a cell. Sees the fire by the desk and key in middle of Bonfire hanging from wall. She tries to get the key with her crowbar and does so without taking damage. The key is hot so she slips into a bucket of mop water nearby. It steams a little. Jinxia and Edwin see the key drop into the water. Range goes to the cell and tries to unlock it.
+
+Outside, group sees guards approaching the jail. Jaxxen sends a message "We need more help at the Owl Bear Tavern"to the guard. This leaves a guard confused about where it came from. One guard runs to the Owl Bear. Another stays around the jail. Hereist sees the guards. 
+
+Jinxia heals for 8 from a potion. Door to cell has opened.
+
+Jaxxen approachs guard and guard says to get back. All back up and he steps backwards towards stables across the street.
+
+Matheris casts healing word and then wants to let others out of cell. He heals Jinxia for 7.  Edwin grabs his gear and steps out of the cell. He asks "Who's there? Show your self. Speak". The ranger speaks and says she is Sonia.
+
+Jaxxen sees 9 guards from Light Street coming.
+
+Back in the Jail, Jinxia looks and finds her pack was burned in the bonfire. Jaxxen sneaks into the jail as a half elf. Jaxxen looks at the group, says, "You've got to grab your shit now, we got to go". Matheris casts healing words again on Jinxia.  
+
+Jaxxen grabs the bucket of mop water and when exiting the jail throws it and uses shape water to freeze it. Its not very effective, making a small ice patch.  Guards point at Jaxxen. He quickly goes around the corner with the group. Sonia makes it to an alley unseen. Jaxxen messages Matheris to hide the group and meet back at the stables before dark. He grabs the dress from his pack, throws it on, and changes his appearance to that of a female half elf and heads the opposite direction on Merchant Way toward Pankratz.  Edwin casts create bonfire on a pile of firewood. Jaxxen attracts further attention screaming at the fire. Blows a signal whistle waves hands in the air and continues running in the direction of the Drunken Goblin.
+
+The rest of the part is out of the alley and they head through to Fizer Cemetary to try to open the gate.  Jinxia has two daggers and a rapier on her. Sonia uses thieves tools with proficiency to unlock the gate. They take the chain off the gate enter and close behind relocking the lock. They get to the mosoleum and see the gravestones turned over. Edwin sees scratches on the door. Lot of them. Not sure what caused it.  The mosoleum is locked. Matheris has the keys and will unlock the Mosoleum.  Gujards are heard on Dagger Boulevard shouting. They lock the mosoleum and all behind.
+
+Jaxxen gets to the crowbar and decides to have a quick meal. Talks to the staff about how its such a peaceful town.
+
+The other group heads into the lair under the mosoleum. Edwins hawk is with him.
+
+Jaxxen checks the stable master at stables and mounts. Sees Serafina and other mounts are there. Goes to the general store and buys 10 oil flasks.  Then heads to temple and to see about healing potions.
+
+Meanwhile, Edwin takes a short rest and Sonia wants to stay back. Matheris and Jinxia want to head back up top to the stables. Jinxia is considering going back to the Jail to try to recover more of her stuff. Guards got full fire out at the Jail and firewood place. Guards are all around the jail area.  Hereist is with Matheris and Sonia wants to stays in base. Hereist asks Sonia if she can loan her tools so they can unlock the gates and she joins. Its about half an hour before it seems safe for them to exit the cemetary without being spotted. While Sonia fails to pick the lock, she lends her tools to Jinxia who succeeds. They dont lock the cemetary back up, instead putting chain over the lock to give appearance to a casual observer that its chained shut. 
+
+The sun is starting to go down. The group moves through alley ways and see movement above of carpenter shop. Jinxia informs the group and Hereist pulls his longbow. The shadows are gone and Hereist puts it away.They go around the corner to the stables.
+
+Jaxxen at the temple asks about potions and they have 3 available for 50 gold each. Jaxxen pulls out 160 gold pieces and thanks them. In appreciation, they say he can buy another. So he gets 4 total before returning to the stables.
+
+When Jaxxen sees Jinxia he says he can give her his thieves tools. Matheris gives her his bag of holding to carry stuff. Jaxxen says he can cast invisibility on Jinxia but its the last spell slot hes got. Will prep and do near/behind the shoe cobbler across from the jail for maximum time.  
+
+Meanwhile, Edwin leaves the lair and at the cemetary, locking up and transforms into a cat shape to get through the wrought iron gate. He heads to jail to try to collect Jinxias stuff to surprise her.
+
+Sonia positions herself on Dagger Boulevard to act as a distraction playing music.  She plays quite well.  
+
+Jinxia sees guards outside and on merchants way and makes her way across unseen. When the door opens, she slips in. She sees 3 guards inside and goes to where her equipment was.  She successfully gets past the three guards and one of them is going through her stuff doing an inventory. He's laying the remaining items out on a a linen cloth to itemize them.  Edwin hops on the guards lap or back to try to distract him.
