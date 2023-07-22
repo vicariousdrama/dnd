@@ -59,4 +59,16 @@ Matheris checks remaining cells and sees human female in shackles. Wont send her
 
 **(Player for Ingrin had to depart)**
 
-Jaxxen readies to go down and behind Hereist and Yilmar, then Jinxia. Edwin covers mouth and nose and steps in the Latrine. He decides to set it on fire. We go down the stairs and hear commotion of fighting.
+Jaxxen readies to go down and behind Hereist and Yilmar, then Jinxia. Edwin covers mouth and nose and steps in the Latrine. He decides to set it on fire. We go down the stairs and hear commotion of fighting. The stairs are long and windy spiral. We heard fighting but by time we get to bottom its now nice and quiet. Opens up to a big room. Matheris sets Dancing Lights overhead. We see some dead bodies. The gnolls and half orcs are slain.  Hereist and Yilmar get shield ready. Arrows come flying towards us and hit the dragonborn. Hereist puts his lantern down. He got hit but still runs fowrard. See 4 arrows hit Hereist shield and 2 go by dragonborn on the left side. Also see some goblins dead but there are 4 goblins left. Hereist rushes and swings at a goblin. Miss it then hit heavy. Yilmar swings and isses.
+
+## Fighting the Firebolt Flying Fanatic
+
+_initiative rolls_
+
+Jaxxen hits a goblin and the moves back some. Edwin casts Bonfire. Jinxia hits. From far a firey spell comes toward Matheris but misses. Goblin goes after Yilmar, hitting him. Another swings at Hereist and misses. Matheris looks to where spell came from hits close to door but misses. Hereist attacks goblin, hitting and killing it. Yilmar does the same to another goblin. Firebolt screams through the air toward Jaxxen but misses. Lady sprints to the left side of room and Ingrin jumps over goblins to front door on left.
+
+Jaxxen dequips crossbow, switches to orb while running to the door. Sees ceiling is 40 foot up with stalagtites coming down. Edwin in room of huge barracks. Jinxia shoots with disadvantage and misess. Matheris misses his attack. Another firebolt fired at Hereist but misses. Yilmar shoots and misses. The White haired lady runs off the side. Ingrin moves forward to third door. 
+
+Jaxxen uses Misty Vision to make the appearance of a merchant tent to the side of door. Edwin casts fog cloud on the door. Another firebolt comes but misses. Jinxia tries to scale the wall. Matheris runs to the right dashing. Hereist sees the fog cloud and runs across room to doors on opposite side. Yilmar follows Hereist. The lady climbs wall as well and gets behind a door. Ingrin is holding back.
+
+Jaxxen moves fowrad on right side, equips dagger preparing for melee. Eddwin moves toward spell caster and dodges. Jinxia hangs holding ready to shoot when fog cloud drops. Matheris rolls acrobatics to be in doorway and slams thunderwave for 8 damage. The enemy is blown back. Bad guy comes out flying from the fog cloud and shoots at Yilmar hitting with firebolts. Hereist runs into door to get ouf of fire, pulling Yilmar. White haired lady tries to jump on flying guy but misses and takes damage on the fall. Jinxia misses. Ingrin holds. Jaxxen misses a Chill Touch attempt
