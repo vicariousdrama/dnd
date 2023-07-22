@@ -20,7 +20,7 @@
   <td><a href="5e_Jaxxen_Tiefling_Warlock_1.pdf">5e_Jaxxen_Tiefling_Warlock_1.pdf</a></td>
 </tr>
 <tr>
-  <td><a href="session_02.md">2. Joining other Knowledge Seekers and reaching the Inn</a></td>
+  <td><a href="session_02.md">2. Other Knowledge Seekers and reaching the Inn</a></td>
   <td>1</td>
   <td><a href="5e_Jaxxen_Tiefling_Warlock_2.pdf">5e_Jaxxen_Tiefling_Warlock_2.pdf (level up at end)</a></td>
 </tr>
