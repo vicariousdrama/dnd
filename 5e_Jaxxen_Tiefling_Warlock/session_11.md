@@ -8,6 +8,7 @@
 - Hereist / Human Fighter 2
 - Ingrin / Dwarf Cleric 2
 - Ulysses / Halfling Monk 2
+- Sonia / Ranger 2
 
 _The group is on the 3rd floor of the Dunken Goblin Tavern_
 
@@ -49,5 +50,14 @@ We head down the street and Matheris gets a short sword looked at at the weapon 
 
 ## The Stables
 
-As the day gets started Bardhome Boulevard begins filling up with people. We get to the stables to pay for more time to stable the mounts.
+As the day gets started Bardhome Boulevard begins filling up with people. We get to the stables wanting to pay for more time to stable the mounts. As we approach, there is some guards there checking things over. The stablemaster was hurt as is Nathair.  There was some kind of incident last night. Says that thieves took some stuff. Nathair is in stable condition.  We ask how the mounts are and find the animals to be ok. Matheris does healing word and Ingrin heals Nathair. The mounts there are startled still, and their saddles are missing.  The room where Nathair and the chest were at is open and the chest is not there. We find out that there were 3 or 4 people that were cloaked and it happened before dawn. Two short people and two tall ones. One of the small ones could be the leader, said "Lets get ouf here Kalara". Ulysses gives Nathair some of the good booze he got. Matheris tries tracking but theres been so much foot traffic that its no use. Cant tell where anyone went.  The stablemaster says he can't protect our animals now and wnats us to go. But Matheris pleeds with him and wants to keep watching for a week. Edwin has been ritual casting a spell speak with animals all this time and calls down his young hawk. Asks if he witness what happened here. Says it was night time. He then asks the mounts. Serafina says there were 4 humanoids. 2 short and 2 tall. Ran down Light street, and heard the name "Kalara".  
 
+Matheris departs and heads on light street back toward the south toward blacksmith hoping to find his chest. He goes to the taylor and asks them if they saw anything but they haven';t. He pays them and wans them to send a message to him if they hear anything. Can reach him at the Night Owl Tavern. He leaves 5 copper. He goes past the temple and looks around and ses a guy who was out smooking. Asks him and he didnt see anything either.  It seems the city was peaceful until Matheris showed up.
+
+Edwin has an idea of trying to communicate in rogueish language. Jinxia says she can but nobody else can. She sees marks of the "Prowlers", "Grimfellows" and the 3 nails. They are marking different areas. But none giving indication of last nights incident.
+
+We see the government buildings up ahead and beginning to open. Jaxxen suggests there may be a register of sorts inside where we could look up the name Kalara to see if it has an associated business or address. A guy out front says citizen registration is voluntary, may want to check with the city guard.
+
+## Picking a Fight
+
+Matheris goes up to guards and goes on and on rambling about his chest and the guards are good for nothing, dont protect anything etc. And eventually they've had enough and they try to tackle him. He tries to escape and fails. Then tries to shocking grasp and that hits for 1 damage. Jinxia takes her rapier and tries to stab a guard that wasn't shocked. She misses and tries a second attack with the short sword and drops it.  The guard takes out his long sword.
