@@ -6,7 +6,7 @@
   <p>Initial Character Sheet: <a href="5e_Jaxxen_Tiefling_Warlock.pdf">Jaxxen, Warlock level 1</a></p>
 </td>
 <td colspan=2>
-  <p>Current Character Sheet: <a href="5e_Jaxxen_Tiefling_Warlock_Current.pdf">Jaxxen, Warlock level 3</a></p>
+  <p>Current Character Sheet: <a href="5e_Jaxxen_Tiefling_Warlock_Current.pdf">Jaxxen, Warlock level 4</a></p>
 </td>
 </tr>
 <tr>
