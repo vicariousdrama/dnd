@@ -69,14 +69,17 @@
   <td>3</td>
   <td><a href="5e_Jaxxen_Tiefling_Warlock_11.pdf">5e_Jaxxen_Tiefling_Warlock_11.pdf (level up at end)</a></td>
 </tr>
-
+<tr>
+  <td><a href="session_11.md">12. Outfitted for a Journey to the Underdark</a></td>
+  <td>4</td>
+  <td><a href="5e_Jaxxen_Tiefling_Warlock_12.pdf">5e_Jaxxen_Tiefling_Warlock_12.pdf</a></td>
+</tr>
 </table>
 
 Some loose ends we could look into
 
 - Telina and Bren at The Bottomless Goblet, and Bren work at Pankratz Jewelers. Who did Casket Nails want Bren to kill and why
-- Why the dark elf (Garth) tell about the sewer access beneath the old building and more to Matheris. - Who is Kobolt, his body guard?
 - Drunken Goblin Tavern: On the 2nd and 3rd floor of the Drunken Goblin Tavern, and political intrigue.
-- Tower of High Sorcery
+- Tower of High Sorcery, Alchemist Shop and Grand Library
 - Harbor: The hooded guy in the cells where Matheris and Jinxia were at in DGT, mentioned he can be found at the Harbor or Little Red Dragon Inn
-- Libraries: (nearby at Bookstore or any of 93 others or the Grand Library), find out info about: 1117, The Deep
+- Libraries/Books/People: find out info about: 1117, The Deep
