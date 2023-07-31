@@ -70,9 +70,14 @@
   <td><a href="5e_Jaxxen_Tiefling_Warlock_11.pdf">5e_Jaxxen_Tiefling_Warlock_11.pdf (level up at end)</a></td>
 </tr>
 <tr>
-  <td><a href="session_11.md">12. Outfitted for a Journey to the Underdark</a></td>
+  <td><a href="session_12.md">12. Outfitted for a Journey to the Underdark</a></td>
   <td>4</td>
   <td><a href="5e_Jaxxen_Tiefling_Warlock_12.pdf">5e_Jaxxen_Tiefling_Warlock_12.pdf</a></td>
+</tr>
+<tr>
+  <td><a href="session_13.md">13. Battle with a Baby Black Dragon</a></td>
+  <td>4</td>
+  <td><a href="5e_Jaxxen_Tiefling_Warlock_13.pdf">5e_Jaxxen_Tiefling_Warlock_13.pdf</a></td>
 </tr>
 </table>
 
