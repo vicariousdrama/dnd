@@ -77,27 +77,27 @@
 <tr>
   <td><a href="session_13.md">13. Battle with a Baby Black Dragon (Jaxxen not present)</a></td>
   <td>4</td>
-  <td><a href="5e_Jaxxen_Tiefling_Warlock_Current.pdf">5e_Jaxxen_Tiefling_Warlock_Current.pdf</a></td>
+  <td><a href="5e_Jaxxen_Tiefling_Warlock_12.pdf">spell slots spent, reduction of items</a></td>
 </tr>
 <tr>
   <td><a href="session_14.md">14. Not yet named - 20230731</a></td>
   <td>4</td>
-  <td><a href="5e_Jaxxen_Tiefling_Warlock_Current.pdf">5e_Jaxxen_Tiefling_Warlock_Current.pdf</a></td>
+  <td><a href="5e_Jaxxen_Tiefling_Warlock_14.pdf">5e_Jaxxen_Tiefling_Warlock_Current.pdf</a></td>
 </tr>
 <tr>
   <td><a href="session_15.md">15. Not yet named - 20230804</a></td>
   <td>4</td>
-  <td><a href="5e_Jaxxen_Tiefling_Warlock_Current.pdf">5e_Jaxxen_Tiefling_Warlock_Current.pdf</a></td>
+  <td><a href="5e_Jaxxen_Tiefling_Warlock_15.pdf">5e_Jaxxen_Tiefling_Warlock_Current.pdf</a></td>
 </tr>
 <tr>
   <td><a href="session_16.md">16. Not yet named - 20230807</a></td>
   <td>4</td>
-  <td><a href="5e_Jaxxen_Tiefling_Warlock_Current.pdf">5e_Jaxxen_Tiefling_Warlock_Current.pdf (level up at end)</a></td>
+  <td><a href="5e_Jaxxen_Tiefling_Warlock_16.pdf">5e_Jaxxen_Tiefling_Warlock_Current.pdf (level up at end)</a></td>
 </tr>
 <tr>
   <td><a href="session_17.md">17. Not yet named - 20230811 (Jaxxen not present)</a></td>
   <td>5</td>
-  <td><a href="5e_Jaxxen_Tiefling_Warlock_Current.pdf">5e_Jaxxen_Tiefling_Warlock_Current.pdf</a></td>
+  <td><a href="5e_Jaxxen_Tiefling_Warlock_16.pdf">no change</a></td>
 </tr>
 
 
