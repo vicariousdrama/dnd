@@ -99,15 +99,18 @@
   <td>5</td>
   <td><a href="5e_Jaxxen_Tiefling_Warlock_16.pdf">no change</a></td>
 </tr>
-
-
+<tr>
+  <td><a href="session_18.md">18. Garth, the Spectre Inn, and a Deadly Battle</a></td>
+  <td>5</td>
+  <td><a href="5e_Jaxxen_Tiefling_Warlock_18.pdf">no change</a></td>
+</tr>
 
 </table>
 
 Some loose ends we could look into
 
-- Telina and Bren at The Bottomless Goblet, and Bren work at Pankratz Jewelers. Who did Casket Nails want Bren to kill and why
-- Drunken Goblin Tavern: On the 2nd and 3rd floor of the Drunken Goblin Tavern, and political intrigue.
-- Tower of High Sorcery, Alchemist Shop and Grand Library
+- Who did Casket Nails want Bren to kill and why
 - Harbor: The hooded guy in the cells where Matheris and Jinxia were at in DGT, mentioned he can be found at the Harbor or Little Red Dragon Inn
-- Libraries/Books/People: find out info about: 1117, The Deep
+- Swamp Portrait
+- Forest 2 Portrait
+- Castle/Keep? Portrait
