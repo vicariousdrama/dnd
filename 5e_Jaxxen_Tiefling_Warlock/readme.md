@@ -102,7 +102,7 @@
 <tr>
   <td><a href="session_18.md">18. Garth, the Spectre Inn, and a Deadly Battle</a></td>
   <td>5</td>
-  <td><a href="5e_Jaxxen_Tiefling_Warlock_18.pdf">no change</a></td>
+  <td><a href="5e_Jaxxen_Tiefling_Warlock_18.pdf">5e_Jaxxen_Tiefling_Warlock_18.pdf</a></td>
 </tr>
 
 </table>
