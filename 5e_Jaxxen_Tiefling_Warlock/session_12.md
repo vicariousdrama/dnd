@@ -13,7 +13,8 @@ _The group is in the library of the lair previously run by Zeldar_
 A quick trip to the Drunken Goblin Tavern through the mirror, Jinxia finds Oli who she had met on a prior encounter with thieves cant.  He agrees to join our group, and we haul in yet one more rando to the "lair". He's quite trusting that Oli.
 
 ---
-_Alliance with Garth_
+
+## Alliance with Garth
 
 Garth wants to form an alliance and has a map to the Underdark below murky water.  He detected a `crystal shard` in teh hallway carpet that was jammed into it. It can be used as a spell focus.  He also found books in the library about the paintings and the mirror.
 
@@ -26,7 +27,8 @@ We discuss the portraits and the need to say `shut` and `open` in Undercommon to
 The water below the water weir will dip about 100 feet down and then 100 feet back up.  This is quite the distance to swim as nobody has swimming speed and we'll be slowed. We need to hold our breath, but not all of us can make the distance without running out and suffocating. Garth indicates he has means to help some. There were the potions in the trunk. He also says he has credit with Malachi and we should prepare for a journey.
 
 ---
-_Drunken Goblin and Oli_
+
+## Drunken Goblin and Oli
 
 The group gets ready to exit via the Drunken Goblin Tavern to head to Malachi's place.  Jaxxen changes appearance to that of a half elf. 
 
@@ -39,7 +41,8 @@ Matheris listens to the bards play. Sees Delia and he nodes at her play. When sh
 We exit the Drunken Goblin out the VIP entrance to the secret shop with the velvet curtains which looks like an old art gallery.  Then take a left on Merchants and to Bard Home.
 
 ---
-_Some Guards spot Us_
+
+## Some Guards spot Us
 
 As we go around the Drunken Goblin Tavern, some guards are on the opposite side. Matheris casts silent image to appear as a human. Guards come looking and want us to show our faces. Edwin is initially not complying. Jinxia is hooded and begins drooling. An attempt to charm the guards is made by Edwin.
 
@@ -56,7 +59,8 @@ Guards look at us and don't do anything.
 We make it to Malachi's Weapons.
 
 ---
-_Malachi's_
+
+## Malachi's
 
 Cobalt leads us in to talk to Nade. Says "Need to speak to Ruger". Nade asks if he has an appointment.  Cobalt walks past, says "No" and starts walking up the stairs.  We follow him and notice Malachi's Armory across the way.  Ruger is a strong looking human with red hair who welcomes Cobalt.
 
@@ -73,7 +77,8 @@ For Edwin, Matheris gets a quarterstaff of better quality and Oli gets a +1 rapi
 **presumably, she hands him or someone else her bag of holding so its not placed inside the other**
 
 ---
-_General Store_
+
+## General Store
 
 We head across the street to the general store.  We see wanted posters.  Jaxxen uses sleight of hand to pull them down unnoticed and crumples them up in his pocket.
 
@@ -82,12 +87,14 @@ We enter a general store and Matheris buys 200 ft of silk rope for 50gp. Oli dec
 On leaving, Matheris casts disguise self as needed. We take the back alleys to the velvet curtain store and make our way back into the Drunken Goblin
 
 ---
-_Edwins Excursion_
+
+## Edwins Excursion
 
 Edwin (still in cat form) exits the store and heads around to an alley. He changs back to normal. He whistles to a guard to attract him and runs off. Hes trying to evade the gaurd chasing him. Changes to a rat and heads into a hole in a door. He sees candle burning downstairs and steps leading up and a symbol on the wall he doesnt recognize.  Smelling nice food upstairs he goes up and hears voices talking quietly of some plan. Eventually he heads back to bardhome boulevard and rejoins the group.
 
 ---
-_Return through Drunken Goblin_
+
+## Return through Drunken Goblin
 
 Jaxxen searches for the door to make ti revolve and we get up to the third floor.
 
@@ -105,7 +112,8 @@ Matheris opens passage first and Jinxia will go with the last group showing Oli 
 </details>
 
 ---
-_Back in the Lair_
+
+## Back in the Lair
 
 Matheris introduces Oli to Garth who has long white hair, solid black drow.  Oli asks him why he's helping us and Garth explains about him wanting to get down the passage.  Oli inquires as to why he wants to go back to the Underdark. Garth says he prefers it. Says the light hurts his eyes and for adventure. Him and Cobalt are adventurers sort and would rather go down then up.  Cobalt says he'll go anywhere with Garth. They help each other.
 
@@ -116,7 +124,8 @@ Jaxxen takes the opportunity t o test out shatter doing thunder damage away from
 Garth wants to hear our plans. We talk of risks of using Bag of Holding to transport the people that can't make the distance. And how to communicate with the rope. We agree that short tugs on the rope will indicate "ok", and a serious of panic like fast tugs should mean "pull me back!"  Garth warns of the bends from pressure.  Edwin can breath under water and has goo swim speed. We tie 200 ft of rope to 50 ft from Jaxxen, and Hereist provides 100ft of silk rope for added length.  Edwin will go down and up and secure the rope on the other side before swmming back. We all gather around. Matheris sings bardic inspiration. Edwin casts pass without trace which gives a bonus to stealth checks.
 
 ---
-_Underwater_
+
+## Underwater
 
 Edwin enters the water and the water wier moves aside. Edwin pulls the rope with him. Some floor was nice stone then it drops deep. He goes a little and sees someone used something to notes 1117 in the flat stone under water.  Edwin knocks where the numbers are, but nothing happens. He continues down 40 more feet and another 40. He sees a small 6 inch white fish with white eyes, albino like. Maybe its blind.  Edwin casts speak with animals. He's able to communicate the fish and finds that there is some danger down at the bottom, to not go there.  He descends to the point where it begins going up on the other side. When he gets back to the surface, he nails rope to the floor with pitons and around a stalagmite and makes sure its extra tight before traversing back to the group.  Edwin relays the info about the fish and the danger below.
 
@@ -129,7 +138,8 @@ Garth enters slowly with bag of holding and follows Edwin the druid. Jaxxen and 
 Garth and Edwin exit the water. Jaxxen gets to the surface and lets Matheris and Jinxia out of the bag. Garth does the same for Hereist and Cobalt. Jaxxen informs the group of the bubbles.
 
 ---
-_The Other Side and Down_
+
+## The Other Side and Down
 
 Garth shows a map he has to the group.  Cobalt and Hereist are still half sized from the potion they drank. This is a large cavern where a passage leads down but then gets jaggedy and rocky.
 
@@ -157,7 +167,8 @@ Edwin returns to the group and becomes half elf form. He relays what he saw. Mat
 </details>
 
 ---
-_Down the Stairs to a Big Fat_
+
+## Down the Stairs to a Big Fat
 
 Jinxia will do assist to help Oli in checking for traps. Edwin provides a non magic quarterstaff. They descend slowly at half speed and check about 10 times. The steps at the upper portion of the stairway are trap free, but they detect a trap at the mid point. Oli determines there is a pressure plate from his investigation. He takes the quarterstaff and wedges to prevent the pressure trap from activating. They find no more traps.
 
@@ -201,6 +212,18 @@ Jinxia keeps working on cutting the head.
 
 Matheris checks if the door is unlocked with Mage Hand, but it doesnt open.
 
+---
+
+## Some Lizard Things
+
 Oli searches the area of any other passages. He checks each door, listening for anything from other side.  When he gets to the left door he hears multiple things coming towards the door from footsteps.
 
 We hide behind the pillars. The two fighters stay up the stairs a bet. We let Garth get a clear shot.
+
+The door handle turns and opens a little bit. We hear a whisper but dont recognize the language. The door bursts open. A number of lizard like bipedals comes in with weapons, perhaps a dozen.  Garth casts a spell of fire toward the big group at the door. Many are on fire and dead. Somew that were coming in are fleeing down the hallway.
+
+Matheris range attack and hits. Jaxxen casts Chill Touch hitting for 1 necrotic damage. Oli shoots and hits one killing it. Edwin casts create bonfire. The last one still alive. Jinxia runs after it. Jaxxen moves closer but the lizard guy gets into door and locks it.
+
+We decide to retreat back up the stairway for now, setting trip lines before the pressure plate, and setup bells of string on steps to alert, as well as loose swords. There was no treasure on the lizards we killed.
+
+_end of session_
