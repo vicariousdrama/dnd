@@ -115,4 +115,92 @@ Jaxxen takes the opportunity t o test out shatter doing thunder damage away from
 
 Garth wants to hear our plans. We talk of risks of using Bag of Holding to transport the people that can't make the distance. And how to communicate with the rope. We agree that short tugs on the rope will indicate "ok", and a serious of panic like fast tugs should mean "pull me back!"  Garth warns of the bends from pressure.  Edwin can breath under water and has goo swim speed. We tie 200 ft of rope to 50 ft from Jaxxen, and Hereist provides 100ft of silk rope for added length.  Edwin will go down and up and secure the rope on the other side before swmming back. We all gather around. Matheris sings bardic inspiration. Edwin casts pass without trace which gives a bonus to stealth checks.
 
-Edwin enters the water and the water wier moves aside. Edwin pulls the rope with him. Some floor was nice stone then it drops deep. He goes a little and sees someone used something to notes 1117 in the flat stone under water.  Edwin knocks where the numbers are, but nothing happens. He continues down 40 more feet and another 40. He sees a small 6 inch white fish with white eyes, albino like. Maybe its blind.  Edwin casts speak with animals
+---
+_Underwater_
+
+Edwin enters the water and the water wier moves aside. Edwin pulls the rope with him. Some floor was nice stone then it drops deep. He goes a little and sees someone used something to notes 1117 in the flat stone under water.  Edwin knocks where the numbers are, but nothing happens. He continues down 40 more feet and another 40. He sees a small 6 inch white fish with white eyes, albino like. Maybe its blind.  Edwin casts speak with animals. He's able to communicate the fish and finds that there is some danger down at the bottom, to not go there.  He descends to the point where it begins going up on the other side. When he gets back to the surface, he nails rope to the floor with pitons and around a stalagmite and makes sure its extra tight before traversing back to the group.  Edwin relays the info about the fish and the danger below.
+
+Oli and Jinxia cant make the distance without a potion of water breathing. Garth uses two diminution potions on Hereist and Cobalt who are wearing metal armor and shrinks them before putting them in his bag of holding.  Jaxxen takes a bag of holding with Matheris and Jinxia inside, tying it tight to prevent any chance of water from getting in and filling the bag.
+
+**presumably, they each hand over their own bag of holding, and only get into one and the other is empty tied tight around Jaxxen's waist**
+
+Garth enters slowly with bag of holding and follows Edwin the druid. Jaxxen and Oli are behind. At a low point all seems ok, but 6 seconds later there's bubbles rising. Jaxxen continues, traversing 15 feet per turn. It will take about 16 turns to cover the distance.
+
+Garth and Edwin exit the water. Jaxxen gets to the surface and lets Matheris and Jinxia out of the bag. Garth does the same for Hereist and Cobalt. Jaxxen informs the group of the bubbles.
+
+---
+_The Other Side and Down_
+
+Garth shows a map he has to the group.  Cobalt and Hereist are still half sized from the potion they drank. This is a large cavern where a passage leads down but then gets jaggedy and rocky.
+
+Matheris casts Dancing Lights so some of the group can see.
+
+Jinxia gets down 60 foot and casts featherfall.
+
+Edwin changes to a large spider form and carries Cobalt and Hereist on his back along with Matheris, Oli and Garth (seems way too much weight)
+
+Jinxia is down 100 feet. Sees a cave below.  As the spider moves down Matheris moves the dancing lights with him.
+
+Jaxxen takes a little falling damage from slipping and falling while climbing down.
+
+When regrouped, we feel some airflow at a cut stone room. There are stairs leading down from here. We couldnt see them before as there was a door before.
+
+Edwin heads down as a spider after dropping everyone off his back.  He hears something sliding around. Looks in room and sees large pillars. Its perhaps 50 or 60 feet wide, and about the same deep and tall.  He sees a creature walking on two legs but doesnt know what it is. Some Big creature with a big club, fastened with bone. He is dragging the club and is about 12 feet tall with greyish skin and big eyes, droopy face and a fat belly.
+
+Meanwhile Matheris tried sending message to Edwin but the distance was too far to reach.
+
+Edwin returns to the group and becomes half elf form. He relays what he saw. Matheris suggests the rogue leed looking for traps. Edwin will help Jinxia, Cobalt and Hereist. Oli and Jinxia will descend steps looking for traps.
+
+<details>
+  <summary>note</summary>
+  player for Edwin logged out for the evening
+</details>
+
+---
+_Down the Stairs to a Big Fat_
+
+Jinxia will do assist to help Oli in checking for traps. Edwin provides a non magic quarterstaff. They descend slowly at half speed and check about 10 times. The steps at the upper portion of the stairway are trap free, but they detect a trap at the mid point. Oli determines there is a pressure plate from his investigation. He takes the quarterstaff and wedges to prevent the pressure trap from activating. They find no more traps.
+
+The party descends and Oli notes to the group where the trap is and recommends not stepping on it.  As Jaxxen approaches it, he decides to mark the wall area with an X above where the trap is for a visual reminder.
+
+Oli gets to the bottom, peeks in and sees a door to the left, one to the right, and another straight ahead. He also notices a silhouette of a large bipedal with two arms, big and father and other part behind pillar.
+
+Looking at the doors, two are about 9 foot tall, and one of them is about 15 foot tall.  
+
+Garth begins preparing a spell.
+
+Jaxxen attempts to ascertain the path the beast is taking but fails to stay quiet. He startles the creature who sees him.  Jaxxen promptly darts to hide behind another pillar.
+
+Matheris comes down the stairs and attracts the beast. He calls out to him in greetings. The Beast moves toward Matheris who keeps talking. The Beast begins charging at Matheris.
+
+Jinxia shoots with her bow and scores a critical hit for 17.  Oli attacks with his bow as well, hitting for 7.
+
+<details>
+  <summary>initiative</summary>
+  <ul>
+    <li>Oli - 20</li>
+    <li>Jaxxen - 16</li>
+    <li>Jinxia - 12</li>
+    <li>Cobalt - 11</li>
+    <li>Garth - 10</li>
+    <li>Matheris - 9</li>
+    <li>Edwin - 8</li>
+    <li>Hereist - ?</li>
+  </ul>
+</details>
+
+The beast goes first and attacks Jaxxen, striking him with the club for 16. Jaxxen reacts with Hellish Rebuke, hitting for 3. Oli uses his bonus action to aim but misses (??). Jaxxen tries casting Witch Bolt, but misses before he moves away. Jinxia moves and gets true strike on next turn. Cobalt and Hereist stay back for now in their shrunken forms. Garth shoots three flames from his fingertips, and one of them hits the creature. Matheris gets to the beast and casts Thunderwave for 10 damage. Edwin casts create Bonfire on teh beast for 7 fire damage.
+
+Oli aims and attacks for 18 damage felling the beast in his blood and causing an echo.
+
+Jinxia pulls a scimitar and begins cutting its head off. There's more blood spewing out.
+
+Jaxxen looks around the room. Sees the door to the right is taller. No inscriptions or symbols but there are about a dozen pillars and they are nicely built. He drinks a healing potion to regain 7 points, and Matheris also casts healing word on him for 7.
+
+Jinxia keeps working on cutting the head.
+
+Matheris checks if the door is unlocked with Mage Hand, but it doesnt open.
+
+Oli searches the area of any other passages. He checks each door, listening for anything from other side.  When he gets to the left door he hears multiple things coming towards the door from footsteps.
+
+We hide behind the pillars. The two fighters stay up the stairs a bet. We let Garth get a clear shot.
